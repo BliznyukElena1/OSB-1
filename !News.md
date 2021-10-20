@@ -1,5 +1,5 @@
 ---
-updated: 2021-10-20T12:59:58+03:00
+updated: 2021-10-20T13:00:20+03:00
 ---
 
 ##### [← Домой](!0SB.md)  
@@ -51,5 +51,3 @@ _- фрагменты эфира:_
 ***  
 [![](https://img.youtube.com/vi/47bunZt5erw/maxresdefault.jpg)](https://www.youtube.com/watch?v=47bunZt5erw)  
 ***  
- <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/greghub/green-audio-player/dist/css/green-audio-player.min.css">
-<script src="https://cdn.jsdelivr.net/gh/greghub/green-audio-player/dist/js/green-audio-player.min.js"></script>_
