@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!News.md",
+            "file": "!0SB.md",
             "mode": "preview"
           }
         }
@@ -92,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!News.md",
+            "file": "!0SB.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!News.md",
+            "file": "!0SB.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!News.md"
+            "file": "!0SB.md"
           }
         }
       },
@@ -137,15 +137,15 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
-    "!News.md",
-    "yyyy-mm-dd-dinamika.md",
     "!0SB.md",
+    "!Library.md",
+    "!News.md",
+    "Без названия.md",
+    "yyyy-mm-dd-dinamika.md",
     "!0SB_Instructio.md",
     "!AI_Talalakin.jpg",
     "!AI_Talalakin.md",
     "DMSO_NANO.md",
-    "AP20211010.md",
-    "yyyy-mm-dd-analis-problemy.md",
-    "U__Krylia_Angela.md"
+    "AP20211010.md"
   ]
 }
