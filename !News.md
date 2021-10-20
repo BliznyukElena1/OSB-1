@@ -1,5 +1,5 @@
 ---
-updated: 2021-10-20T17:27:58+03:00
+updated: 2021-10-20T18:23:02+03:00
 ---
 
 ##### [← Домой](!0SB.md)   
@@ -24,7 +24,10 @@ updated: 2021-10-20T17:27:58+03:00
 ***   
 #### ОСБ / Система квадрантов (USF)  
 [![](https://img.youtube.com/vi/w2yfEDAl514/maxresdefault.jpg)](https://youtu.be/w2yfEDAl514)  
-***  
+***
+#### ОСБ / Тормоза в лактатной зоне
+[![](https://i.ytimg.com/vi_webp/bJgOP_5Hn1U/maxresdefault.webp)](https://www.youtube.com/watch?v=bJgOP_5Hn1U)   
+***
 #### 2021-10-19  
 ### ВСД-Космонавтика
 ![](https://telegra.ph/file/6f7ba784d854f41b9ea87.jpg)   
