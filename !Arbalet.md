@@ -1,8 +1,8 @@
 ---
-updated: 2021-10-20T14:23:41+03:00
+updated: 2021-10-20T14:31:54+03:00
 ---
 
-### ОСБ / Арбалет
+### ОСБ / Арбалет  
 ##### [← Домой](!0SB.md)   
 ***
 ![](https://telegra.ph/file/591dc1e98963a1b24f844.jpg)
@@ -18,3 +18,5 @@ updated: 2021-10-20T14:23:41+03:00
 
 #### ОСБ / Арбалет 4    
 [![](https://i.ytimg.com/vi/1TVN-buN9IA/maxresdefault.jpg)](https://youtu.be/1TVN-buN9IA)   
+
+#### [← !Lectio](!Lectio.md)

@@ -5,9 +5,10 @@ updated: 2021-10-20T14:03:21+03:00
 ### ОСБ / Эфиры, лекции
 ##### [← Домой](!0SB.md)   
 ***  
-#### [ОСБ / Арбалет](!Arbalet.md)
+#### ОСБ / Арбалет
+#### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](!Arbalet.md)   
 ***
-#### ВСД-Космонавтика
+#### ВСД / Космонавтика
 ![](https://telegra.ph/file/6f7ba784d854f41b9ea87.jpg)   
 
 _- фрагменты эфира:_
