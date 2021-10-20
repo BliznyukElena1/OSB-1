@@ -1,8 +1,8 @@
 ---
-updated: 2021-10-20T15:33:38+03:00
+updated: 2021-10-20T15:33:59+03:00
 ---
 
-#### ABCDEFGoal
+### ABCDEFGoal
 ![](https://telegra.ph/file/591dc1e98963a1b24f844.jpg)
 
 A - тонус, состояние (4D)   
