@@ -1,11 +1,12 @@
 ---
-updated: 2021-10-20T14:33:54+03:00
+updated: 2021-10-20T15:28:20+03:00
 ---
 
 ### ОСБ / Арбалет  
 ##### [← Домой](!0SB.md)   
 ***
 ![](https://telegra.ph/file/591dc1e98963a1b24f844.jpg)
+[ABCDEFGoal](ABCDEFGoal.md)  
 ***  
 #### ОСБ / Арбалет 1  
 [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=pouFQqZgRHQ)   

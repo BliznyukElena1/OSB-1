@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "!Arbalet.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -138,6 +138,7 @@
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
     "!Arbalet.md",
+    "ABCDEFGoal.md",
     "!News.md",
     "!0SB.md",
     "!Lectio.md",
@@ -145,7 +146,6 @@
     "!Library.md",
     "yyyy-mm-dd-dinamika.md",
     "!0SB_Instructio.md",
-    "!AI_Talalakin.jpg",
-    "!AI_Talalakin.md"
+    "!AI_Talalakin.jpg"
   ]
 }
