@@ -1,13 +1,10 @@
 ---
-updated: 2021-10-20T16:05:54+03:00
+updated: 2021-10-20T16:33:43+03:00
 ---
 
 ### ОСБ / Арбалет  
 ##### [← Домой](!0SB.md)   
 ***
-![](https://telegra.ph/file/591dc1e98963a1b24f844.jpg)
-###### [ABCDEFGoal](ABCDEFGoal.md)   
-***  
 #### ОСБ / Арбалет 1  
 [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=pouFQqZgRHQ)   
 
@@ -18,6 +15,8 @@ updated: 2021-10-20T16:05:54+03:00
 [![](https://i.ytimg.com/vi/Wac1Q45IkZA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Wac1Q45IkZA)   
 
 #### ОСБ / Арбалет 4    
-[![](https://i.ytimg.com/vi/1TVN-buN9IA/maxresdefault.jpg)](https://youtu.be/1TVN-buN9IA)   
-
-##### [← !Lectio](!Lectio.md)
+[![](https://i.ytimg.com/vi/1TVN-buN9IA/maxresdefault.jpg)](https://youtu.be/1TVN-buN9IA)  
+***
+#### [![](https://telegra.ph/file/591dc1e98963a1b24f844.jpg)](ABCDEFGoal.md)  
+***  
+##### [← !Lectio](!Lectio.md)  
