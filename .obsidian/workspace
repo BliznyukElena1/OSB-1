@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!Library.md",
+            "file": "!Herbanastoy.md",
             "mode": "preview"
           }
         }
@@ -92,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!Library.md",
+            "file": "!Herbanastoy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!Library.md",
+            "file": "!Herbanastoy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!Library.md"
+            "file": "!Herbanastoy.md"
           }
         }
       },
@@ -137,10 +137,10 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
+    "!Herbanastoy.md",
+    "!Herba.md",
     "!Library.md",
     "!0SB.md",
-    "!Herba.md",
-    "!Herbanastoy.md",
     "Травяной настой.md",
     "Травы.md",
     "!News.md",
