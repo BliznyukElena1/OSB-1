@@ -1,5 +1,5 @@
 ---
-updated: 2021-10-20T13:59:57+03:00
+updated: 2021-10-20T14:03:21+03:00
 ---
 
 ### ОСБ / Эфиры, лекции
@@ -24,5 +24,6 @@ _- фрагменты эфира:_
 #### ОСБ / Система квадрантов (USF)  
 [![](https://img.youtube.com/vi/w2yfEDAl514/maxresdefault.jpg)](https://youtu.be/w2yfEDAl514)  
 ***  
+#### ОСБ / ЭХ-Арбалет
 [![](https://img.youtube.com/vi/47bunZt5erw/maxresdefault.jpg)](https://www.youtube.com/watch?v=47bunZt5erw)  
 ***  
