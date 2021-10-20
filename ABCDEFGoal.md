@@ -1,9 +1,10 @@
 ---
-created: '<%+ tp.file.creation_date("YYYY-MM-DD HH:mm") %>'
-updated: '<%+ tp.file.last_modified_date("YYYY-MM-DD HH:mm") %>' 
+updated: 2021-10-20T15:33:38+03:00
 ---
-# ABCDEFGoal
+
+#### ABCDEFGoal
 ![](https://telegra.ph/file/591dc1e98963a1b24f844.jpg)
+
 A - тонус, состояние (4D)   
 B - ритм-синергия, автоматизмы, эмоции (2D)   
 C - пространственное поле 5D "здесь и сейчас":    
