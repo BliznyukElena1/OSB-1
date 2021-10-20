@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!Arbalet.md",
+            "file": "ABCDEFGoal.md",
             "mode": "preview"
           }
         }
@@ -92,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!Arbalet.md",
+            "file": "ABCDEFGoal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!Arbalet.md",
+            "file": "ABCDEFGoal.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!Arbalet.md"
+            "file": "ABCDEFGoal.md"
           }
         }
       },
@@ -137,8 +137,8 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
-    "!Arbalet.md",
     "ABCDEFGoal.md",
+    "!Arbalet.md",
     "!News.md",
     "!0SB.md",
     "!Lectio.md",
