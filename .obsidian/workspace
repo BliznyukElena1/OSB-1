@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!Herbanastoy.md",
+            "file": "!News.md",
             "mode": "preview"
           }
         }
@@ -92,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!Herbanastoy.md",
+            "file": "!News.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!Herbanastoy.md",
+            "file": "!News.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!Herbanastoy.md"
+            "file": "!News.md"
           }
         }
       },
@@ -137,13 +137,13 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
-    "!Herbanastoy.md",
+    "!News.md",
     "!Herba.md",
-    "!Library.md",
     "!0SB.md",
+    "!Herbanastoy.md",
+    "!Library.md",
     "Травяной настой.md",
     "Травы.md",
-    "!News.md",
     "!Arbalet.md",
     "ABCDEFGoal.md",
     "!Lectio.md"
