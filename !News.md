@@ -1,12 +1,15 @@
 ---
-updated: 2021-10-20T13:35:57+03:00
+updated: 2021-10-20T14:33:07+03:00
 ---
 
 ##### [← Домой](!0SB.md)   
 ***  
 ### ОСБ. НОВОСТИ.  
 ***  
-#### 2021-10-20  
+#### 2021-10-20 
+***  
+#### ОСБ / Арбалет
+#### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](!Arbalet.md)   
 ***  
 #### ОСБ / Просто о сложном  
 [![](https://i.ytimg.com/vi/Z6PzwQQP4YI/hqdefault.jpg)](https://youtu.be/Z6PzwQQP4YI)   
