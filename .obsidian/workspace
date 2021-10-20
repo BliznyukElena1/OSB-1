@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!Arbalet.md",
-            "mode": "preview"
+            "file": "!Library.md",
+            "mode": "source"
           }
         }
       }
@@ -92,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!Arbalet.md",
+            "file": "!Library.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!Arbalet.md",
+            "file": "!Library.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!Arbalet.md"
+            "file": "!Library.md"
           }
         }
       },
@@ -137,13 +137,13 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
+    "!Library.md",
+    "!0SB.md",
+    "!News.md",
     "!Arbalet.md",
     "ABCDEFGoal.md",
-    "!News.md",
-    "!0SB.md",
     "!Lectio.md",
     "Без названия.md",
-    "!Library.md",
     "yyyy-mm-dd-dinamika.md",
     "!0SB_Instructio.md",
     "!AI_Talalakin.jpg"
