@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "!Arbalet.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -138,9 +138,9 @@
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
     "!Arbalet.md",
-    "!Lectio.md",
-    "!0SB.md",
     "!News.md",
+    "!0SB.md",
+    "!Lectio.md",
     "Без названия.md",
     "!Library.md",
     "yyyy-mm-dd-dinamika.md",
