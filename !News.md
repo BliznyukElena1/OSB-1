@@ -1,5 +1,5 @@
 ---
-updated: 2021-10-20T13:09:20+03:00
+updated: 2021-10-20T13:35:28+03:00
 ---
 
 ##### [← Домой](!0SB.md)   
@@ -13,6 +13,7 @@ updated: 2021-10-20T13:09:20+03:00
 ***
 #### ОСБ / Артроз. Реабилитация 90-110%  
 [![](https://i.ytimg.com/vi/pE5w9L_zF1I/hqdefault.jpg)](https://www.youtube.com/watch?v=pE5w9L_zF1I)   
+#артроз
 ***   
 #### ОСБ / Система квадрантов (USF)  
 [![](https://img.youtube.com/vi/w2yfEDAl514/maxresdefault.jpg)](https://youtu.be/w2yfEDAl514)  
