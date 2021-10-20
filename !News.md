@@ -1,5 +1,5 @@
 ---
-updated: 2021-10-20T11:51:06+03:00
+updated: 2021-10-20T11:59:41+03:00
 ---
 
 ##### [← Домой](!0SB.md)  
@@ -7,6 +7,9 @@ updated: 2021-10-20T11:51:06+03:00
 ### ОСБ. НОВОСТИ.  
 ***  
 #### 2021-10-20  
+***
+#### ОСБ / Артроз. Реабилитация 90-110%
+[![](https://i.ytimg.com/vi/pE5w9L_zF1I/hqdefault.jpg)](https://www.youtube.com/watch?v=pE5w9L_zF1I)   
 ***  
 #### ОСБ / Просто о сложном
 [![](https://i.ytimg.com/vi/Z6PzwQQP4YI/hqdefault.jpg)](https://youtu.be/Z6PzwQQP4YI)   
@@ -15,7 +18,7 @@ updated: 2021-10-20T11:51:06+03:00
 [![](https://img.youtube.com/vi/w2yfEDAl514/maxresdefault.jpg)](https://youtu.be/w2yfEDAl514)  
 ***  
 #### 2021-10-19  
-### ВСД-Космонавтика  
+### ВСД-Космонавтика
 ![](https://telegra.ph/file/6f7ba784d854f41b9ea87.jpg)   
 
 _- фрагменты эфира:_
