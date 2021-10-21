@@ -4,6 +4,10 @@
 ***    
 ### ОСБ. НОВОСТИ.  
 ***   
+#### 2021-10-22   
+#### ОСБ / Встречи на Макаренко-9  
+[![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)  
+***   
 #### 2021-10-21   
 #### [ОСБ / Для немедиков](!Lectio.md#OSB_NOMED)
 ![](https://telegra.ph/file/6fc97edb46138fb91b219.jpg)  
