@@ -87,8 +87,9 @@ dd - день заполнения
 - [x] Андроид → Notepad++  
 - [x] Windows → QuickEdit  
 - [x] Или редакторы Markdown  
-***   
-http://mductor.weebly.com/a.html - страница запроса (VPN-доступ).  
+***  
+http://mductor.weebly.com/a.html - страница запроса (VPN-доступ).   
+
 ---
 ![](https://youtu.be/FQcPIXfhmsY)   
 
