@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "e20211022.md",
+            "file": "!News.md",
             "mode": "preview"
           }
         }
@@ -92,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "e20211022.md",
+            "file": "!News.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "e20211022.md",
+            "file": "!News.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "e20211022.md"
+            "file": "!News.md"
           }
         }
       },
@@ -137,15 +137,15 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
-    "e20211022.md",
     "!News.md",
+    "!0SB.md",
+    "!AI_Talalakin.md",
+    "DMSO_NANO.md",
+    "e20211022.md",
     "AP20211010.md",
     "yyyy-mm-dd-dinamika.md",
     "yyyy-mm-dd-analis-problemy.md",
     "U__Krylia_Angela.md",
-    "README.md",
-    "DMSO_NANO.md",
-    "DMSO_APROTON.md",
-    "ABCDEFGoal.md"
+    "README.md"
   ]
 }
