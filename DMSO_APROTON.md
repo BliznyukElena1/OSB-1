@@ -245,4 +245,4 @@ http://www.pereplet.ru/obrazovanie/stsoros/399.html
 
 https://t.me/osbmd/3024
 
-[!0SB](!0SB.md)
+[!0SB](!0SB.md#OSB)

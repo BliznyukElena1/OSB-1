@@ -468,4 +468,4 @@ https://t.me/osbmd/3025
 
 https://t.me/osbmd/2276 - аудио-версия
 
-[!0SB](!0SB.md)
+[!0SB](!0SB.md#OSB)

@@ -22,4 +22,4 @@ __9D__ - знаний (осмысленных и осознаваемых тео
 ОСБ-2020  
 ***
 [!Arbalet](!Arbalet.md#OSB_Arbalet)  
-[!0SB](!0SB.md)
+[!0SB](!0SB.md#OSB)
