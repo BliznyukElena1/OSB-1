@@ -1,8 +1,17 @@
 ### ОСБ / Эфиры, лекции
 ##### [← Домой](!0SB.md)  
 ***  
-#### ОСБ / Для немедиков  
+#### ОСБ / Для немедиков (ч. 1)  
 [![](https://telegra.ph/file/6fc97edb46138fb91b219.jpg)](https://youtu.be/tHwT3SowHb8)  
+***  
+#### ОСБ / Для немедиков (ч. 2)  
+[![](https://i.ytimg.com/vi/6y42fqU8Sr8/maxresdefault.jpg)](https://youtu.be/6y42fqU8Sr8)  
+***  
+#### ОСБ / Для немедиков (ч. 4)  
+[![](https://i.ytimg.com/vi/5lXo6l_xGTA/maxresdefault.jpg)](https://youtu.be/5lXo6l_xGTA)  
+***  
+#### ОСБ / Для немедиков (ч. 5)  
+[![](https://i.ytimg.com/vi/HkLexldO1D8/maxresdefault.jpg)](https://youtu.be/HkLexldO1D8)  
 ***  
 #### ОСБ / Арбалет
 #### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](!Arbalet.md)   
