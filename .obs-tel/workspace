@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!Lectio.md",
-            "mode": "source"
+            "file": "!0SB.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!Lectio.md",
+            "file": "!0SB.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!Lectio.md",
+            "file": "!0SB.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!Lectio.md"
+            "file": "!0SB.md"
           }
         }
       }
@@ -113,8 +113,8 @@
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
-    "!Lectio.md",
     "!0SB.md",
+    "!Lectio.md",
     "DMSO_APROTON.md",
     "!Library.md",
     "!News.md",

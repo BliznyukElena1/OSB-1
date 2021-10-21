@@ -7,6 +7,6 @@
 - [x] [ОСБ. ИНСТРУКЦИИ.](!0SB_Instructio.md#0SB_Instructio)  
 - [x] [ОКНО ЗАПРОСА](http://mductor.weebly.com/a.html) (VPN-доступ)    
 ***  
-##### [Эфиры, лекции](!Lectio.md#Lectio)  
+##### [Эфиры, лекции](!Lectio.md#Lectio)   
 ##### [Библиотека](!Library.md#Library)   
-***  
+***   

@@ -42,7 +42,8 @@
     "find-and-replace-in-selection:find-and-replace-in-selection",
     "editor:configure-toolbar",
     "obsidian-chartsview-plugin:insert-chartsview-template",
-    "obsidian-carry-forward:carry-line-forward-combined-lines"
+    "obsidian-carry-forward:carry-line-forward-link-only",
+    "obsidian-carry-forward:carry-line-forward-embed-link-only"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
