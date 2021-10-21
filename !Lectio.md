@@ -1,9 +1,6 @@
 ### ОСБ / Эфиры, лекции
 ##### [← Домой](!0SB.md)   
 ***  
-#### ОСБ / Через себя  
-[![](https://i.ytimg.com/vi/VeKZjx462bw/hqdefault.jpg)](https://youtu.be/VeKZjx462bw)   
-***  
 #### ОСБ / Арбалет
 #### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](!Arbalet.md)   
 ***
@@ -28,6 +25,9 @@ _- фрагменты эфира:_
 ***
 #### ОСБ / Тормоза в лактатной зоне
 [![](https://i.ytimg.com/vi_webp/bJgOP_5Hn1U/maxresdefault.webp)](https://www.youtube.com/watch?v=bJgOP_5Hn1U)   
+***  
+#### ОСБ / Через себя  
+[![](https://i.ytimg.com/vi/VeKZjx462bw/hqdefault.jpg)](https://youtu.be/VeKZjx462bw)   
 ***  
 #### ОСБ / ЭХ-Арбалет
 [![](https://img.youtube.com/vi/47bunZt5erw/maxresdefault.jpg)](https://www.youtube.com/watch?v=47bunZt5erw)  
