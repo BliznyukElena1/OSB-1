@@ -2,7 +2,7 @@
 ##### [← Домой](!0SB.md)   
 ***  
 #### ОСБ / Для немедиков  
-[![](https://img.youtube.com/vi/tHwT3SowHb8/maxresdefault.jpg)](https://youtu.be/tHwT3SowHb8)  
+[![](https://telegra.ph/file/6fc97edb46138fb91b219.jpg)](https://youtu.be/tHwT3SowHb8)  
 ***  
 #### ОСБ / Арбалет
 #### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](!Arbalet.md)   
