@@ -1,5 +1,5 @@
 ### ОСБ / Эфиры, лекции
-##### [← Домой](!0SB.md)   
+##### [← Домой](!0SB.md)  
 ***  
 #### ОСБ / Для немедиков  
 [![](https://telegra.ph/file/6fc97edb46138fb91b219.jpg)](https://youtu.be/tHwT3SowHb8)  
@@ -22,12 +22,12 @@ _- фрагменты эфира:_
 ***
 #### ОСБ / Артроз. Реабилитация 90-110%  
 [![](https://i.ytimg.com/vi/pE5w9L_zF1I/hqdefault.jpg)](https://www.youtube.com/watch?v=pE5w9L_zF1I)   
-***   
-#### ОСБ / Система квадрантов (USF)  
-[![](https://img.youtube.com/vi/w2yfEDAl514/maxresdefault.jpg)](https://youtu.be/w2yfEDAl514)  
 ***
 #### ОСБ / Тормоза в лактатной зоне
 [![](https://i.ytimg.com/vi_webp/bJgOP_5Hn1U/maxresdefault.webp)](https://www.youtube.com/watch?v=bJgOP_5Hn1U)   
+***   
+#### ОСБ / Система квадрантов (USF)  
+[![](https://img.youtube.com/vi/w2yfEDAl514/maxresdefault.jpg)](https://youtu.be/w2yfEDAl514)  
 ***  
 #### ОСБ / Через себя  
 [![](https://i.ytimg.com/vi/VeKZjx462bw/hqdefault.jpg)](https://youtu.be/VeKZjx462bw)   

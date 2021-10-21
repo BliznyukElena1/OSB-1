@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!News.md",
+            "file": "!Lectio.md",
             "mode": "preview"
           }
         }
@@ -92,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!News.md",
+            "file": "!Lectio.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!News.md",
+            "file": "!Lectio.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!News.md"
+            "file": "!Lectio.md"
           }
         }
       },
@@ -137,6 +137,7 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
+    "!Lectio.md",
     "!News.md",
     "!0SB.md",
     "!AI_Talalakin.md",
@@ -145,7 +146,6 @@
     "AP20211010.md",
     "yyyy-mm-dd-dinamika.md",
     "yyyy-mm-dd-analis-problemy.md",
-    "U__Krylia_Angela.md",
-    "README.md"
+    "U__Krylia_Angela.md"
   ]
 }
