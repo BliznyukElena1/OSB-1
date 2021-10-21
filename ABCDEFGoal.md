@@ -21,5 +21,5 @@ __9D__ - знаний (осмысленных и осознаваемых тео
 А. И. Талалакин,   
 ОСБ-2020  
 ***
-[!Arbalet](!Arbalet.md)  
+[!Arbalet](!Arbalet.md#OSB_Arbalet)  
 [!0SB](!0SB.md)
