@@ -3,6 +3,10 @@
 ### ОСБ / Эфиры, лекции
 ##### [← Домой](!0SB.md#OSB)  
 
+***
+#### ОСБ / Регуляция пищеварения  
+[![](https://i.ytimg.com/vi_webp/glmEFiknS-Q/maxresdefault.webp)](https://www.youtube.com/watch?v=glmEFiknS-Q)   
+
 ***  
 #### ОСБ / Встречи на Макаренко-9   
 - [x] ОСБ / Об особенностях работы.   
