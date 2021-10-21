@@ -6,6 +6,8 @@
 ***   
 #### 2021-10-22   
 #### ОСБ / Встречи на Макаренко-9  
+- [x] ОСБ / Об особенностях работы.   
+
 [![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)  
 ***   
 #### 2021-10-21   
