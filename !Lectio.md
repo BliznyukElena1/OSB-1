@@ -1,6 +1,10 @@
 ### ОСБ / Эфиры, лекции
 ##### [← Домой](!0SB.md)   
 ***  
+#### ОСБ / Для немедиков 1  
+[![](https://img.youtube.com/vi/tHwT3SowHb8/maxresdefault.jpg)](https://youtu.be/tHwT3SowHb8)  
+
+
 #### ОСБ / Арбалет
 #### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](!Arbalet.md)   
 ***
