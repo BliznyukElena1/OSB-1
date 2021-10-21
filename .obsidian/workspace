@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!News.md",
+            "file": "yyyy-mm-dd-dinamika.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!News.md",
+            "file": "yyyy-mm-dd-dinamika.md",
             "mode": "preview"
           }
         },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!News.md",
+                "file": "yyyy-mm-dd-dinamika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!News.md",
+                "file": "yyyy-mm-dd-dinamika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!News.md"
+                "file": "yyyy-mm-dd-dinamika.md"
               }
             }
           },
@@ -151,15 +151,15 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
-    "!News.md",
+    "yyyy-mm-dd-dinamika.md",
     "!0SB.md",
+    "!0SB_Instructio.md",
+    "ArbaletEP.jpg",
+    "!News.md",
     "!Lectio.md",
     "!Library.md",
     "DMSO_APROTON.md",
     "DMSO_NANO.md",
-    "!0SB_Instructio.md",
-    "!AI_Talalakin.md",
-    "!AI_Talalakin.jpg",
-    "!Herbanastoy.md"
+    "!AI_Talalakin.md"
   ]
 }
