@@ -16,7 +16,7 @@
 - [x] [!Herba](!Herba.md)  
 ***  
 #### ОСБ / Арбалет
-#### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](!Arbalet.md)   
+#### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](!Arbalet.md##### OSB_Arbalet)   
 ***  
 #### ОСБ / Просто о сложном  
 [![](https://i.ytimg.com/vi/Z6PzwQQP4YI/hqdefault.jpg)](https://youtu.be/Z6PzwQQP4YI)   
