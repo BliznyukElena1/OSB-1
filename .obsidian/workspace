@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!Lectio.md",
+            "file": "!News.md",
             "mode": "preview"
           }
         }
@@ -18,134 +18,142 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "de052c88f83a628e",
-    "type": "mobile-drawer",
+    "id": "a0b7a85dadf567e7",
+    "type": "split",
     "children": [
       {
-        "id": "b334b205be6f9bb2",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "e8402af508f1dde2",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "глюко кето переход",
-            "matchingCase": true,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "7eee5e4c359b12aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee71838283732eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a98eeae152251382",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b6b0a92c2f814ae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "09bb98016f50082c",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "aea6aee5aff6b77c",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "950ddafe41c8d632",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
-      },
-      {
-        "id": "6867ff57edbc9cfd",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "bb122bfbfe8aa512",
-        "type": "leaf",
-        "state": {
-          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "7d1072abe546d292",
-    "type": "mobile-drawer",
+    "id": "73cb70abd271a42b",
+    "type": "split",
     "children": [
       {
-        "id": "e3b9de114a038f84",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "!Lectio.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "393f53f718a64eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c986eff244a565d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "!News.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5da12b40603440c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "!News.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15f8c3a884353c84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "486ae5bba059db4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "!News.md"
+              }
+            }
+          },
+          {
+            "id": "7af47c451676ffc9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "3f9d276ce053302e",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "!Lectio.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "0a7785ee25f7c92a",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "!Lectio.md"
-          }
-        }
-      },
-      {
-        "id": "6bd3831ce7c2191f",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        ]
       }
-    ]
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
-    "!Lectio.md",
     "!News.md",
+    "!Lectio.md",
+    "!Herba.md",
     "!0SB.md",
-    "!AI_Talalakin.md",
-    "DMSO_NANO.md",
-    "e20211022.md",
-    "AP20211010.md",
-    "yyyy-mm-dd-dinamika.md",
-    "yyyy-mm-dd-analis-problemy.md",
-    "U__Krylia_Angela.md"
+    "!Herbanastoy.md",
+    "!Library.md",
+    "Травяной настой.md",
+    "Травы.md",
+    "!Arbalet.md",
+    "ABCDEFGoal.md"
   ]
 }
