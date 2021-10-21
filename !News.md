@@ -8,7 +8,6 @@
 - [x] [Библиотека](!Library.md)  
 - [x] [Арбалет](!Arbalet.md)  
 - [x] [!Herba](!Herba.md)  
-- [x] [e20211022](e20211022.md)  
 ***  
 #### ОСБ / Арбалет
 #### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](!Arbalet.md)   
