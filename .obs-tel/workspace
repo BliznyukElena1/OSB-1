@@ -62,14 +62,6 @@
           "type": "starred",
           "state": {}
         }
-      },
-      {
-        "id": "8339b427d3e61fea",
-        "type": "leaf",
-        "state": {
-          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-          "state": {}
-        }
       }
     ],
     "currentTab": 0
@@ -96,14 +88,6 @@
         }
       },
       {
-        "id": "74aa4709f07c560e",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
         "id": "25cae6ab9e472b65",
         "type": "leaf",
         "state": {
@@ -125,8 +109,7 @@
           }
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
