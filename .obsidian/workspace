@@ -6,7 +6,6 @@
       {
         "id": "959601d523ad5ba3",
         "type": "leaf",
-        "dimension": 53.735926305015354,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,12 +13,11 @@
             "mode": "source"
           }
         },
-        "group": "2fda29e16f37d553"
+        "group": "933e66ce7cd6fccb"
       },
       {
-        "id": "88c54c8883c54b05",
+        "id": "61f5cb4b14d7b42c",
         "type": "leaf",
-        "dimension": 46.264073694984646,
         "state": {
           "type": "markdown",
           "state": {
@@ -27,7 +25,7 @@
             "mode": "preview"
           }
         },
-        "group": "2fda29e16f37d553"
+        "group": "933e66ce7cd6fccb"
       }
     ],
     "direction": "vertical"
@@ -149,7 +147,7 @@
     "direction": "horizontal",
     "width": 144
   },
-  "active": "959601d523ad5ba3",
+  "active": "61f5cb4b14d7b42c",
   "lastOpenFiles": [
     "!0SB_Instructio.md",
     "yyyy-mm-dd-dinamika.md",
