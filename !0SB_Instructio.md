@@ -91,8 +91,8 @@ http://mductor.weebly.com/a.html - страница запроса (VPN-дост
 
 ***
 ![](https://youtu.be/FQcPIXfhmsY)   
-#### ОСБ / Об особенностях работы.   
 
+#### ОСБ / Об особенностях работы.   
 [![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)   
 
 ***
