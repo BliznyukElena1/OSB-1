@@ -1,6 +1,9 @@
 ### ОСБ / Эфиры, лекции
 ##### [← Домой](!0SB.md)   
 ***  
+#### ОСБ / Через себя  
+[![](https://i.ytimg.com/vi/VeKZjx462bw/hqdefault.jpg)](https://youtu.be/VeKZjx462bw)   
+***  
 #### ОСБ / Арбалет
 #### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](!Arbalet.md)   
 ***
