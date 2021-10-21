@@ -18,4 +18,4 @@
 ***
 #### [![](https://telegra.ph/file/591dc1e98963a1b24f844.jpg)](ABCDEFGoal.md#ABCDEFGoal)  
 ***  
-##### [← !Lectio](!Lectio.md#Lectio)  
+##### [← !Lectio](!Lectio.md#!Lectio)  
