@@ -1,6 +1,7 @@
 ### ОСБ / Эфиры, лекции
 ##### [← Домой](!0SB.md)  
 ***  
+#### OSB_NOMED
 #### ОСБ / Для немедиков (ч. 1)  
 [![](https://telegra.ph/file/6fc97edb46138fb91b219.jpg)](https://youtu.be/tHwT3SowHb8)  
 ***  
