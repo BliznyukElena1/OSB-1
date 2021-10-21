@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!News.md",
+            "file": "yyyy-mm-dd-analis-problemy.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!News.md",
+            "file": "yyyy-mm-dd-analis-problemy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!News.md",
+            "file": "yyyy-mm-dd-analis-problemy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!News.md"
+            "file": "yyyy-mm-dd-analis-problemy.md"
           }
         }
       },
@@ -137,6 +137,8 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
+    "yyyy-mm-dd-analis-problemy.md",
+    "yyyy-mm-dd-dinamika.md",
     "!News.md",
     "!Herba.md",
     "!0SB.md",
@@ -144,8 +146,6 @@
     "!Library.md",
     "Травяной настой.md",
     "Травы.md",
-    "!Arbalet.md",
-    "ABCDEFGoal.md",
-    "!Lectio.md"
+    "!Arbalet.md"
   ]
 }
