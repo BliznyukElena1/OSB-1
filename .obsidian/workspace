@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!0SB_Instructio.md",
+            "file": "!News.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!0SB_Instructio.md",
+            "file": "!News.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!0SB_Instructio.md",
+                "file": "!News.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!0SB_Instructio.md",
+                "file": "!News.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!0SB_Instructio.md"
+                "file": "!News.md"
               }
             }
           },
@@ -149,9 +149,9 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
+    "!News.md",
     "!0SB_Instructio.md",
     "!Lectio.md",
-    "!News.md",
     "yyyy-mm-dd-dinamika.md",
     "!0SB.md",
     "ArbaletEP.jpg",
