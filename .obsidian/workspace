@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!News.md",
+            "file": "e20211022.md",
             "mode": "preview"
           }
         }
@@ -92,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!News.md",
+            "file": "e20211022.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!News.md",
+            "file": "e20211022.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!News.md"
+            "file": "e20211022.md"
           }
         }
       },
@@ -137,6 +137,7 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
+    "e20211022.md",
     "!News.md",
     "AP20211010.md",
     "yyyy-mm-dd-dinamika.md",
@@ -145,7 +146,6 @@
     "README.md",
     "DMSO_NANO.md",
     "DMSO_APROTON.md",
-    "ABCDEFGoal.md",
-    "!Library.md"
+    "ABCDEFGoal.md"
   ]
 }
