@@ -90,7 +90,6 @@ dd - день заполнения
 ***   
 http://mductor.weebly.com/a.html - страница запроса (VPN-доступ).  
 ![](https://youtu.be/FQcPIXfhmsY)   
-
 - [x] ОСБ / Об особенностях работы.   
 
 [![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)   
