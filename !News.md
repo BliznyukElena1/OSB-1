@@ -3,7 +3,7 @@
 ### ОСБ. НОВОСТИ.  
 ***  
 #### 2021-10-21  
-#### [ОСБ / Для немедиков](https://github.com/TalalakinAI/OSB/blob/master/!Lectio.md#OSB_NOMED)
+#### [ОСБ / Для немедиков](!Lectio.md#OSB_NOMED)
 ![](https://telegra.ph/file/6fc97edb46138fb91b219.jpg)  
 ***  
 #### 2021-10-20  
