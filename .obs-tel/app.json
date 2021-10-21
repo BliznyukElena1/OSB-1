@@ -39,14 +39,10 @@
     "editor:unfold-all",
     "editor:toggle-comments",
     "note-composer:split-file",
-    "consistent-attachments-and-links:convert-all-embed-paths-to-relative",
-    "consistent-attachments-and-links:replace-all-wikilinks-with-markdown-links",
-    "consistent-attachments-and-links:reorganize-vault",
     "find-and-replace-in-selection:find-and-replace-in-selection",
     "editor:configure-toolbar",
-    "daily-activity:links-to-files-created-today",
-    "daily-activity:links-to-files-modified-today",
-    "obsidian-chartsview-plugin:insert-chartsview-template"
+    "obsidian-chartsview-plugin:insert-chartsview-template",
+    "obsidian-carry-forward:carry-line-forward-combined-lines"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
