@@ -89,10 +89,15 @@ dd - день заполнения
 - [x] Или редакторы Markdown  
 ***   
 http://mductor.weebly.com/a.html - страница запроса (VPN-доступ).  
+---
 ![](https://youtu.be/FQcPIXfhmsY)   
+
+---
 - [x] ОСБ / Об особенностях работы.   
 
 [![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)   
+
+---
 - [x] [О промерах](https://t.me/osbmd/1334)  
 ***  
 С уважением,   
