@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!Arbalet.md",
+            "file": "!0SB_Instructio.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!Arbalet.md",
+            "file": "!0SB_Instructio.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!Arbalet.md",
+            "file": "!0SB_Instructio.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!Arbalet.md"
+            "file": "!0SB_Instructio.md"
           }
         }
       }
@@ -130,8 +130,10 @@
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
-    "!Arbalet.md",
+    "!0SB_Instructio.md",
     "!News.md",
+    "!0SB.md",
+    "!Arbalet.md",
     "!Lectio.md"
   ]
 }
