@@ -3,6 +3,9 @@
 ### ОСБ / Эфиры, лекции
 ##### [← Домой](!0SB.md#OSB)  
 ***  
+#### ОСБ / Встречи на Макаренко-9  
+[![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)  
+***  
 #### OSB_NOMED
 ***  
 #### ОСБ / Для немедиков (ч. 1)  
