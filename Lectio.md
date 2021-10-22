@@ -37,7 +37,7 @@
 
 ***  
 #### ОСБ / Арбалет  
-#### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](Arbalet.md)   
+#### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](Arbalet.md#OSB_Arbalet)   
 
 ***
 #### ВСД / Космонавтика
