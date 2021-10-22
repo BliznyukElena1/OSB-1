@@ -1,8 +1,8 @@
 #### News
 ***  
-##### [← Домой](!0SB.md#OSB)   
+[← Домой](!0SB.md#OSB)   
 ***    
-### ОСБ. НОВОСТИ.  
+#### ОСБ. НОВОСТИ.  
 
 ***   
 #### 2021-10-22   
@@ -10,6 +10,10 @@
 #### ОСБ / Об особенностях работы.   
 
 [![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)  
+
+***  
+#### ОСБ / Химия тела Шустриков и Тормозов  
+[![](https://i.ytimg.com/vi_webp/JI8p2rWPmaA/maxresdefault.webp)](https://youtu.be/JI8p2rWPmaA)   
 
 ***   
 #### 2021-10-21   
@@ -46,7 +50,7 @@
 
 ***
 #### 2021-10-19  
-### ВСД-Космонавтика
+#### ВСД-Космонавтика
 ![](https://telegra.ph/file/6f7ba784d854f41b9ea87.jpg)   
 
 _- фрагменты эфира:_
