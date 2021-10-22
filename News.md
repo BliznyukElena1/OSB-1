@@ -24,7 +24,7 @@
 #### 2021-10-20   
 #### Созданы отдельные блоки:   
 - [x] [Эфиры, лекции](!Lectio.md#Lectio)  
-- [x] [Библиотека](!Library.md#Library)  
+- [x] [Библиотека](Library.md#Library)  
 - [x] [Арбалет](!Arbalet.md#OSB_Arbalet)  
 - [x] [!Herba](!Herba.md)  
 

@@ -7,19 +7,25 @@
         "id": "959601d523ad5ba3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Library.md",
+            "mode": "source"
+          }
         },
-        "group": "933e66ce7cd6fccb"
+        "group": "9df16c994cb7d256"
       },
       {
-        "id": "61f5cb4b14d7b42c",
+        "id": "da0a8a783c2ccdfe",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Library.md",
+            "mode": "preview"
+          }
         },
-        "group": "933e66ce7cd6fccb"
+        "group": "9df16c994cb7d256"
       }
     ],
     "direction": "vertical"
@@ -83,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Library.md"
+              }
             }
           },
           {
@@ -139,15 +149,15 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
+    "Library.md",
+    "News.md",
     "!News.md",
     "!Lectio.md",
-    "!Library.md",
     "!0SB_Instructio.md",
     "yyyy-mm-dd-dinamika.md",
     "!0SB.md",
     "ArbaletEP.jpg",
     "DMSO_APROTON.md",
-    "DMSO_NANO.md",
-    "!AI_Talalakin.md"
+    "DMSO_NANO.md"
   ]
 }
