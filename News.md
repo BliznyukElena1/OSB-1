@@ -8,7 +8,6 @@
 #### 2021-10-22   
 
 #### ОСБ / Об особенностях работы.   
-
 [![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)  
 
 ***  
@@ -30,7 +29,7 @@
 
 ***  
 #### ОСБ / Арбалет
-#### [![](Arbalet.md)   
+#### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](Arbalet.md)   
 
 ***  
 #### ОСБ / Просто о сложном  
@@ -71,6 +70,7 @@ _- фрагменты эфира:_
 - [x] [Тирозол. Гипертиреоз.](https://t.me/osbmd/3045)  
 
 ![](https://telegra.ph/file/ca6ba0887993ff93104d1.jpg)  
+
 ***  
 #### 2021-10-16  
 - [x] [Инструкции обновлены!](!0SB_Instructio.md)  
