@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "e20211022.md",
+            "file": "ABCDEFGoal.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "e20211022.md",
+            "file": "ABCDEFGoal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "e20211022.md",
+            "file": "ABCDEFGoal.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "e20211022.md"
+            "file": "ABCDEFGoal.md"
           }
         }
       }
@@ -113,14 +113,15 @@
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
+    "ABCDEFGoal.md",
+    "!News.md",
+    "000/000-title.md",
+    "!Herba.md",
+    "Без названия.md",
     "e20211022.md",
     "DMSO_NANO.md",
-    "!News.md",
     "!0SB.md",
     "!Lectio.md",
-    "DMSO_APROTON.md",
-    "!Library.md",
-    "!0SB_Instructio.md",
-    "!Arbalet.md"
+    "DMSO_APROTON.md"
   ]
 }

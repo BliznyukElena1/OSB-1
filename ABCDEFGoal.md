@@ -1,4 +1,4 @@
-### ABCDEFGoal   
+### ABCDEFGoal    
 ![](https://telegra.ph/file/591dc1e98963a1b24f844.jpg)
 #### Двигательные уровни:   
 __A__ - тонус, состояние (4D)   

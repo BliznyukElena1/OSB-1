@@ -16,6 +16,6 @@
 #### ОСБ / Арбалет 4    
 [![](https://i.ytimg.com/vi/1TVN-buN9IA/maxresdefault.jpg)](https://youtu.be/1TVN-buN9IA)  
 ***
-#### [![](https://telegra.ph/file/591dc1e98963a1b24f844.jpg)](ABCDEFGoal.md#ABCDEFGoal)  
+#### [![](ABCDEFGoal.md#ABCDEFGoal)  
 ***  
 ##### [← !Lectio](!Lectio.md#Lectio)  
