@@ -11,6 +11,10 @@
 
 [![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)  
 
+***  
+#### ОСБ / Химия тела Шустриков и Тормозов  
+[![](https://i.ytimg.com/vi_webp/JI8p2rWPmaA/maxresdefault.webp)](https://youtu.be/JI8p2rWPmaA)   
+
 ***   
 #### 2021-10-21   
 #### [ОСБ / Для немедиков](!Lectio.md#OSB_NOMED)
