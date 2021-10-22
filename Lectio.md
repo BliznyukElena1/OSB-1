@@ -36,7 +36,7 @@
 [![](https://i.ytimg.com/vi/HkLexldO1D8/maxresdefault.jpg)](https://youtu.be/HkLexldO1D8)  
 
 ***  
-#### ОСБ / Арбалет  
+#### ОСБ / Арбалет   
 #### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](Arbalet.md#OSB_Arbalet)   
 
 ***
