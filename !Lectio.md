@@ -3,15 +3,19 @@
 ### ОСБ / Эфиры, лекции
 ##### [← Домой](!0SB.md#OSB)  
 
-***
-#### ОСБ / Регуляция пищеварения  
-[![](https://i.ytimg.com/vi_webp/glmEFiknS-Q/maxresdefault.webp)](https://www.youtube.com/watch?v=glmEFiknS-Q)   
-
 ***  
 #### ОСБ / Встречи на Макаренко-9   
 - [x] ОСБ / Об особенностях работы.   
 
 [![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)   
+
+***  
+#### ОСБ / Химия тела Шустриков и Тормозов
+[![](https://i.ytimg.com/vi_webp/JI8p2rWPmaA/maxresdefault.webp)](https://youtu.be/JI8p2rWPmaA)   
+
+***
+#### ОСБ / Регуляция пищеварения  
+[![](https://i.ytimg.com/vi/glmEFiknS-Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=glmEFiknS-Q)   
 
 ***  
 #### OSB_NOMED
