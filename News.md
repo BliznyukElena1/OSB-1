@@ -29,7 +29,7 @@
 
 ***  
 #### ОСБ / Арбалет
-#### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](Arbalet.md#OSB_Arbalet)   
+#### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](Arbalet.md#OSB_Arbalet)  
 
 ***  
 #### ОСБ / Просто о сложном  
