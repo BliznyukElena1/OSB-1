@@ -25,12 +25,12 @@
 #### Созданы отдельные блоки:   
 - [x] [Эфиры, лекции](Lectio.md#Lectio)  
 - [x] [Библиотека](Library.md#Library)  
-- [x] [Арбалет](!Arbalet.md#OSB_Arbalet)  
-- [x] [!Herba](!Herba.md)  
+- [x] [Арбалет](Arbalet.md#OSB_Arbalet)  
+- [x] [Herba](Herba.md)  
 
 ***  
 #### ОСБ / Арбалет
-#### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](!Arbalet.md)   
+#### [![](Arbalet.md)   
 
 ***  
 #### ОСБ / Просто о сложном  

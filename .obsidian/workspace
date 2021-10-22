@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lectio.md",
+            "file": "!0SB_Instructio.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lectio.md",
+            "file": "!0SB_Instructio.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectio.md",
+                "file": "!0SB_Instructio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectio.md",
+                "file": "!0SB_Instructio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectio.md"
+                "file": "!0SB_Instructio.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
+    "!0SB_Instructio.md",
+    "!0SB.md",
+    "Arbalet.md",
+    "Herba.md",
+    "Herbanastoy.md",
+    "AI_Talalakin.md",
     "Lectio.md",
     "Library.md",
     "News.md",
-    "!News.md",
-    "!0SB_Instructio.md",
-    "yyyy-mm-dd-dinamika.md",
-    "!0SB.md",
-    "ArbaletEP.jpg",
-    "DMSO_APROTON.md",
-    "DMSO_NANO.md"
+    "!News.md"
   ]
 }

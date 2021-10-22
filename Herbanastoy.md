@@ -102,5 +102,5 @@
 ***
 ##### А. И. Талалакин
 ***
-#### [!Herba](!Herba.md#Herba)  
+#### [Herba](Herba.md#Herba)  
 #### [!0SB](!0SB.md#OSB)  
