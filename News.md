@@ -17,13 +17,13 @@
 
 ***   
 #### 2021-10-21   
-#### [ОСБ / Для немедиков](!Lectio.md#OSB_NOMED)
+#### [ОСБ / Для немедиков](Lectio.md#OSB_NOMED)
 ![](https://telegra.ph/file/6fc97edb46138fb91b219.jpg)  
 
 ***  
 #### 2021-10-20   
 #### Созданы отдельные блоки:   
-- [x] [Эфиры, лекции](!Lectio.md#Lectio)  
+- [x] [Эфиры, лекции](Lectio.md#Lectio)  
 - [x] [Библиотека](Library.md#Library)  
 - [x] [Арбалет](!Arbalet.md#OSB_Arbalet)  
 - [x] [!Herba](!Herba.md)  

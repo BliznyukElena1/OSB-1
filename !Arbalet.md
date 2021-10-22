@@ -18,4 +18,4 @@
 ***
 #### [![](ABCDEFGoal.md#ABCDEFGoal)  
 ***  
-##### [← !Lectio](!Lectio.md#Lectio)  
+##### [← !Lectio](Lectio.md#Lectio)  
