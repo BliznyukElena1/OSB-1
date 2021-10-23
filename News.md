@@ -11,6 +11,9 @@
 
 [Промеры и Анализ проблемы](e20211022.md#e20211022)  
 
+![](https://telegra.ph/file/f65ccd22aaf895cbdd472.jpg)  
+![](https://telegra.ph/file/cf6d93ba7ab99ddecc4a0.jpg)  
+
 ***   
 #### 2021-10-23   
 #### [ОСБ / Титаник на Тирозоле](https://t.me/osbmd/3062)  
