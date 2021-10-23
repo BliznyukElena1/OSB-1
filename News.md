@@ -4,6 +4,13 @@
 ### ОСБ. НОВОСТИ.    
 
 ***   
+#### 2021-10-23   
+#### [ОСБ / Титаник на Тирозоле](https://t.me/osbmd/3062)
+***  
+#### ОСБ / Арбалет
+#### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](Arbalet.md#OSB_Arbalet)  
+
+***   
 #### 2021-10-22   
 
 #### ОСБ / Об особенностях работы.   
@@ -25,10 +32,6 @@
 - [x] [Библиотека](Library.md#Library)  
 - [x] [Арбалет](Arbalet.md#OSB_Arbalet)  
 - [x] [Herba](Herba.md)  
-
-***  
-#### ОСБ / Арбалет
-#### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](Arbalet.md#OSB_Arbalet)  
 
 ***  
 #### ОСБ / Просто о сложном  
