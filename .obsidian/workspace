@@ -68,6 +68,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "13303b4582ad5b1a",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
           }
         ]
       }
@@ -138,6 +146,14 @@
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "22185af05620a3ee",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
