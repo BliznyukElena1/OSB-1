@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mtb_B.md",
+            "file": "News.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mtb_B.md",
+            "file": "News.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mtb_B.md",
+            "file": "News.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mtb_B.md"
+            "file": "News.md"
           }
         }
       }
@@ -113,11 +113,11 @@
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
-    "Mtb_B.md",
+    "News.md",
     "!0SB.md",
+    "Mtb_B.md",
     "Без названия.md",
     "Lectio.md",
-    "News.md",
     "e20211022.md",
     "!0SB_Instructio.md",
     "Arbalet.md",
