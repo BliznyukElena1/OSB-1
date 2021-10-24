@@ -10,7 +10,7 @@
 [![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)   
 
 ***
-#### ОСБ. История  
+#### ОСБ / История  
 [![](https://telegra.ph/file/ca4b6b6f05f5cef53a6cf.jpg)](https://t.me/c/1484776022/37227)   
 
 ***  
