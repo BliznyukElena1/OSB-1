@@ -9,7 +9,7 @@
 [![](https://i.ytimg.com/vi/yICDwAOCaR4/hqdefault.jpg)](https://https://youtu.be/yICDwAOCaR4)  
 
 ***
-###### Lectio-2021-10-24
+###### Lectio-Sezon
 #### ОСБ / Сезонные хвори
 [![](https://i.ytimg.com/vi/UNqGYNDZKl0/hqdefault.jpg)](https://www.youtube.com/watch?v=UNqGYNDZKl0)   
 

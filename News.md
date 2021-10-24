@@ -5,7 +5,7 @@
 
 ***   
 #### 2021-10-24   
-#### [ОСБ / Сезонные хвори](Lectio.md#Lectio-2021-10-24)  
+#### [ОСБ / Сезонные хвори](Lectio.md#Lectio-Sezon)  
 ![](https://i.ytimg.com/vi/UNqGYNDZKl0/hqdefault.jpg)
 ***
 #### [ОСБ / Титаник на "ЗОЖе"](https://t.me/osbmd/3064)   
