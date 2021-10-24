@@ -15,5 +15,7 @@
   "find-and-replace-in-selection",
   "obsidian-chartsview-plugin",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-carry-forward"
+  "obsidian-carry-forward",
+  "obsidian-reveal-active-file",
+  "remember-cursor-position"
 ]
