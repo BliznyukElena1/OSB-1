@@ -3,8 +3,9 @@
 ### ОСБ / Эфиры, лекции
 ##### [← Домой](!0SB.md#OSB)  
 
-***  
-#### ОСБ / Встречи на Макаренко-9   
+*** 
+###### Lectio-OSB 
+#### ОСБ / Встречи на Макаренко   
 - [x] ОСБ / Об особенностях работы.   
 
 [![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)   
