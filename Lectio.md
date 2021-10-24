@@ -3,6 +3,12 @@
 ### ОСБ / Эфиры, лекции
 ##### [← Домой](!0SB.md#OSB)  
 
+***  
+#### ОСБ / Встречи на Макаренко-9   
+- [x] ОСБ / Об особенностях работы.   
+
+[![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)   
+
 ***
 ###### Lectio-Titanik
 
@@ -51,12 +57,6 @@
 ###### Lectio-Sezon
 #### ОСБ / Сезонные хвори
 [![](https://i.ytimg.com/vi/UNqGYNDZKl0/hqdefault.jpg)](https://www.youtube.com/watch?v=UNqGYNDZKl0)   
-
-***  
-#### ОСБ / Встречи на Макаренко-9   
-- [x] ОСБ / Об особенностях работы.   
-
-[![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)   
 
 ***
 #### ОСБ / История  
