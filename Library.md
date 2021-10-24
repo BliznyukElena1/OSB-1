@@ -14,8 +14,3 @@
 ***
 #### Компоненты:  
 - [x] [Травы](Herba.md#Herba)  
-
-
-<!-- Dependencies --> <script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> <script src="thirdparty/js.cookie.js"></script> <!-- CSS --> <link rel="stylesheet" href="build/ableplayer.min.css" type="text/css"/> <!-- JavaScript --> <script src="build/ableplayer.min.js"></script>
-
-`<!-- Dependencies --> <script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> <script src="thirdparty/js.cookie.js"></script> <!-- CSS --> <link rel="stylesheet" href="build/ableplayer.min.css" type="text/css"/> <!-- JavaScript --> <script src="build/ableplayer.min.js"></script>`
