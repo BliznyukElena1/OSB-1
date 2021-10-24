@@ -6,7 +6,7 @@
 ***
 ###### Lectio-B-hold
 #### ОСБ / Задержки Дыхания
-[![](https://i.ytimg.com/vi/58-frzZfj30/hqdefault.jpg)](https://youtu.be/58-frzZfj30) 
+[![](https://i.ytimg.com/vi/58-frzZfj30/maxresdefault.jpg)](https://youtu.be/58-frzZfj30)  
 
 ***
 ###### Lectio-Tanatos
