@@ -5,8 +5,9 @@
 
 ***   
 #### 2021-10-24   
-#### [ОСБ / Сезонные хвори](Lectio.md#Lectio-Sezon)  
-![](https://i.ytimg.com/vi/UNqGYNDZKl0/hqdefault.jpg)
+#### [ОСБ / Задержки дыхания. Дыхание по Кресту. Spirit v. 1.](Lectio.md#Lectio-B-hold)  
+![](https://i.ytimg.com/vi/58-frzZfj30/maxresdefault.jpg)
+
 ***
 #### [ОСБ / Титаник на "ЗОЖе"](https://t.me/osbmd/3064)   
 Работа над ошибками!  
@@ -24,6 +25,10 @@
 - [x] Тирозло и получили... 
 
 Как исправлять ситуацию?  
+
+***
+#### [ОСБ / Сезонные хвори](Lectio.md#Lectio-Sezon)  
+![](https://i.ytimg.com/vi/UNqGYNDZKl0/hqdefault.jpg)
 
 ***   
 #### 2021-10-23   

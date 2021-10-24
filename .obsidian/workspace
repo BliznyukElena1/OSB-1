@@ -9,21 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lectio.md",
+            "file": "News.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "999941d44248f5eb"
       },
       {
-        "id": "da0a8a783c2ccdfe",
+        "id": "f5f6ff87ecca2bef",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lectio.md",
+            "file": "News.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "999941d44248f5eb"
       }
     ],
     "direction": "vertical"
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectio.md",
+                "file": "News.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectio.md",
+                "file": "News.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectio.md"
+                "file": "News.md"
               }
             }
           },
@@ -161,11 +163,11 @@
     "direction": "horizontal",
     "width": 144
   },
-  "active": "da0a8a783c2ccdfe",
+  "active": "f5f6ff87ecca2bef",
   "lastOpenFiles": [
+    "News.md",
     "Lectio.md",
     "Library.md",
-    "News.md",
     "000/000-title.md",
     "!0SB.md",
     "AI_Talalakin.md",
