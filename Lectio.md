@@ -3,6 +3,11 @@
 ### ОСБ / Эфиры, лекции
 ##### [← Домой](!0SB.md#OSB)  
 
+***
+###### Lectio-2021-10-24-12:39
+#### ОСБ / Сезонные хвори
+[![](https://i.ytimg.com/vi/UNqGYNDZKl0/hqdefault.jpg)](https://www.youtube.com/watch?v=UNqGYNDZKl0)   
+
 ***  
 #### ОСБ / Встречи на Макаренко-9   
 - [x] ОСБ / Об особенностях работы.   
