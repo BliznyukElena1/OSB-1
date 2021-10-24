@@ -4,7 +4,7 @@
 ##### [← Домой](!0SB.md#OSB)  
 
 ***
-###### Lectio-2021-10-24-12:39
+###### Lectio-2021-10-24
 #### ОСБ / Сезонные хвори
 [![](https://i.ytimg.com/vi/UNqGYNDZKl0/hqdefault.jpg)](https://www.youtube.com/watch?v=UNqGYNDZKl0)   
 
