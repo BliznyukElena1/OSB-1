@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "News.md",
+            "file": "Lectio.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "News.md",
+            "file": "Lectio.md",
             "mode": "preview"
           }
         },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "News.md",
+                "file": "Lectio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "News.md",
+                "file": "Lectio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "News.md"
+                "file": "Lectio.md"
               }
             }
           },
@@ -163,10 +163,10 @@
     "direction": "horizontal",
     "width": 144
   },
-  "active": "959601d523ad5ba3",
+  "active": "f5f6ff87ecca2bef",
   "lastOpenFiles": [
-    "News.md",
     "Lectio.md",
+    "News.md",
     "Library.md",
     "000/000-title.md",
     "!0SB.md",
