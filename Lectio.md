@@ -4,6 +4,16 @@
 ##### [← Домой](!0SB.md#OSB)  
 
 ***
+###### Lectio-B-hold
+#### ОСБ / Задержки Дыхания
+[![](https://i.ytimg.com/vi/58-frzZfj30/hqdefault.jpg)](https://youtu.be/58-frzZfj30) 
+
+***
+###### Lectio-Tanatos
+#### ОСБ / Дыхательная танатотерапия
+[![](https://i.ytimg.com/vi/xx_RWXVfaYc/hqdefault.jpg)](https://youtu.be/xx_RWXVfaYc) 
+
+***
 ###### Lectio-Krest
 #### ОСБ / Дыхание по Кресту
 [![](https://i.ytimg.com/vi/yICDwAOCaR4/hqdefault.jpg)](https://https://youtu.be/yICDwAOCaR4)  
