@@ -16,7 +16,7 @@
 ***
 ###### Lectio-Krest
 #### ОСБ / Дыхание по Кресту
-[![](https://i.ytimg.com/vi/yICDwAOCaR4/hqdefault.jpg)](https://https://youtu.be/yICDwAOCaR4)  
+[![](https://i.ytimg.com/vi/yICDwAOCaR4/hqdefault.jpg)](https://youtu.be/yICDwAOCaR4?)  
 
 ***
 ###### Lectio-Sezon

@@ -12,8 +12,7 @@
             "file": "Lectio.md",
             "mode": "source"
           }
-        },
-        "group": "9df16c994cb7d256"
+        }
       },
       {
         "id": "da0a8a783c2ccdfe",
@@ -24,8 +23,7 @@
             "file": "Lectio.md",
             "mode": "preview"
           }
-        },
-        "group": "9df16c994cb7d256"
+        }
       }
     ],
     "direction": "vertical"
@@ -163,11 +161,11 @@
     "direction": "horizontal",
     "width": 144
   },
-  "active": "959601d523ad5ba3",
+  "active": "da0a8a783c2ccdfe",
   "lastOpenFiles": [
     "Lectio.md",
-    "News.md",
     "Library.md",
+    "News.md",
     "000/000-title.md",
     "!0SB.md",
     "AI_Talalakin.md",
