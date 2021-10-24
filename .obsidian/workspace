@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "News.md",
+            "file": "Library.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "News.md",
+            "file": "Library.md",
             "mode": "preview"
           }
         },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "News.md",
+                "file": "Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "News.md",
+                "file": "Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "News.md"
+                "file": "Library.md"
               }
             }
           },
@@ -163,11 +163,11 @@
     "direction": "horizontal",
     "width": 144
   },
-  "active": "da0a8a783c2ccdfe",
+  "active": "959601d523ad5ba3",
   "lastOpenFiles": [
+    "Library.md",
     "News.md",
     "Lectio.md",
-    "Library.md",
     "!0SB.md",
     "AI_Talalakin.md",
     "Arbalet.md",
