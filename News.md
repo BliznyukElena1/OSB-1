@@ -70,10 +70,10 @@
 ***  
 #### 2021-10-20   
 #### Созданы отдельные блоки:   
-- [x] [Эфиры, лекции](Lectio.md#Lectio)  
-- [x] [Библиотека](Library.md#Library)  
-- [x] [Арбалет](Arbalet.md#OSB_Arbalet)  
-- [x] [Herba](Herba.md)  
+- [x] [Эфиры, лекции](Lectio.md#lectio)  
+- [x] [Библиотека](Library.md#library)  
+- [x] [Арбалет](Arbalet.md#osb_arbalet)  
+- [x] [Herba](Herba.md#herba)  
 
 ***  
 #### ОСБ / Просто о сложном  
@@ -105,7 +105,7 @@ _- фрагменты эфира:_
 
 ***  
 #### 2021-10-18  
-- [x] [Инструкции обновлены!](!0SB_Instructio.md)   
+- [x] [Инструкции обновлены!](!0SB_Instructio.md#osb_instructio)   
 - [x] [Формы для скачивания без VPN](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)  
 - [x] Миграция с Weebly на GitHub
 
@@ -117,7 +117,7 @@ _- фрагменты эфира:_
 
 ***  
 #### 2021-10-16  
-- [x] [Инструкции обновлены!](!0SB_Instructio.md)  
+- [x] [Инструкции обновлены!](!0SB_Instructio.md#osb_instructio)  
 - [x] Отчётные формы на GitHub изменены!  
 - [x] Старые формы больше не принимаются!  
 
