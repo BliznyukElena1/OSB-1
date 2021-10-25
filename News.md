@@ -1,19 +1,22 @@
 #### News  
 [← Домой](!0SB.md#OSB)   
+
 ***    
+
 ### ОСБ. НОВОСТИ.  
+
 ***
 
 ##### News-2021-10-25
 #### [Метаболизм Белков в ЖКТ. Гниение.](Mtb_B.md#Mtb_B)  
 
-***
+***  
 #### 2021-10-24   
 
 #### [ОСБ / Задержки дыхания. Дыхание по Кресту.](Lectio.md#Lectio-B-hold)  
 ![](https://i.ytimg.com/vi/58-frzZfj30/maxresdefault.jpg)
 
-***
+***  
 #### [ОСБ / Титаник на "ЗОЖе"](https://t.me/osbmd/3064)   
 Работа над ошибками!  
 (фрагмент эфира, ч. 2)  
@@ -31,7 +34,7 @@
 
 Как исправлять ситуацию?  
 
-***
+***  
 #### [ОСБ / Сезонные хвори](Lectio.md#Lectio-Sezon)  
 ![](https://i.ytimg.com/vi/UNqGYNDZKl0/hqdefault.jpg)
 
@@ -83,11 +86,11 @@
 #### ОСБ / Система квадрантов (USF)  
 [![](https://img.youtube.com/vi/w2yfEDAl514/maxresdefault.jpg)](https://youtu.be/w2yfEDAl514)  
 
-***
+***  
 #### ОСБ / Тормоза в лактатной зоне
 [![](https://i.ytimg.com/vi_webp/bJgOP_5Hn1U/maxresdefault.webp)](https://www.youtube.com/watch?v=bJgOP_5Hn1U)   
 
-***
+***  
 #### 2021-10-19  
 #### ВСД-Космонавтика
 ![](https://telegra.ph/file/6f7ba784d854f41b9ea87.jpg)   
@@ -127,4 +130,5 @@ _- фрагменты эфира:_
 
 ***  
 [![](https://img.youtube.com/vi/47bunZt5erw/maxresdefault.jpg)](https://www.youtube.com/watch?v=47bunZt5erw)  
+
 ***  
