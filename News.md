@@ -13,7 +13,7 @@
 ***  
 #### 2021-10-24   
 
-#### [ОСБ / Задержки дыхания. Дыхание по Кресту.](Lectio.md#Lectio-B-hold)  
+#### [ОСБ / Задержки дыхания. Дыхание по Кресту.](Lectio.md#Lectio_B_hold)  
 ![](https://i.ytimg.com/vi/58-frzZfj30/maxresdefault.jpg)
 
 ***  
@@ -35,7 +35,7 @@
 Как исправлять ситуацию?  
 
 ***  
-#### [ОСБ / Сезонные хвори](Lectio.md#Lectio-Sezon)  
+#### [ОСБ / Сезонные хвори](Lectio.md#Lectio_Sezon)  
 ![](https://i.ytimg.com/vi/UNqGYNDZKl0/hqdefault.jpg)
 
 ***   
