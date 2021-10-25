@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Mtb_B.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -114,6 +114,7 @@
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
     "Mtb_B.md",
+    "000/000-title.md",
     "News.md",
     "!0SB.md",
     "Без названия.md",
@@ -121,7 +122,6 @@
     "e20211022.md",
     "!0SB_Instructio.md",
     "Arbalet.md",
-    "ABCDEFGoal.md",
-    "AI_Talalakin.md"
+    "ABCDEFGoal.md"
   ]
 }
