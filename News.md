@@ -64,7 +64,7 @@
 
 ***   
 #### 2021-10-21   
-#### [ОСБ / Для немедиков](Lectio.md#OSB_NOMED)
+#### [ОСБ / Для немедиков](Lectio.md#osb_nomed)
 ![](https://telegra.ph/file/6fc97edb46138fb91b219.jpg)  
 
 ***  
