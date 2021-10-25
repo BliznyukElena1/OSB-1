@@ -35,7 +35,7 @@
 Как исправлять ситуацию?  
 
 ***  
-#### [ОСБ / Сезонные хвори](Lectio.md#Lectio_Sezon)  
+#### [ОСБ / Сезонные хвори](Lectio.md#lectio_sezon)  
 ![](https://i.ytimg.com/vi/UNqGYNDZKl0/hqdefault.jpg)
 
 ***   
