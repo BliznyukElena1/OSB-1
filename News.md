@@ -105,7 +105,7 @@ _- фрагменты эфира:_
 
 ***  
 #### 2021-10-18  
-- [x] [Инструкции обновлены!](!0SB_Instructio.md#osb_instructio)   
+- [x] [Инструкции обновлены!](!0SB_Instructio.md#0sb_instructio)   
 - [x] [Формы для скачивания без VPN](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)  
 - [x] Миграция с Weebly на GitHub
 
