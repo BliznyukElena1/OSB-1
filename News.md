@@ -13,7 +13,7 @@
 ***  
 #### 2021-10-24   
 
-#### [ОСБ / Задержки дыхания. Дыхание по Кресту.](Lectio.md#Lectio_B_hold)  
+#### [ОСБ / Задержки дыхания. Дыхание по Кресту.](Lectio.md#lectio_b_hold)  
 ![](https://i.ytimg.com/vi/58-frzZfj30/maxresdefault.jpg)
 
 ***  
