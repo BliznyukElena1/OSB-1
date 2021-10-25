@@ -47,6 +47,7 @@
 - [x] Тиреотоксикоз  
 - [x] Гиперкалиемия  
 - [x] Вегетарианство (5 лет)  
+
 ***  
 #### ОСБ / Арбалет  
 #### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](Arbalet.md#OSB_Arbalet)  
