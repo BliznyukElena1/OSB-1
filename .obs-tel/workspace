@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mtb_B.md",
-            "mode": "source"
+            "file": "Library.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mtb_B.md",
+            "file": "Library.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mtb_B.md",
+            "file": "Library.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mtb_B.md"
+            "file": "Library.md"
           }
         }
       }
@@ -114,15 +114,15 @@
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
+    "Library.md",
     "Mtb_B.md",
+    "DMSO_APROTON.md",
     "000/000-title.md",
     "News.md",
     "!0SB.md",
     "Lectio.md",
     "000/000-date.md",
     "000/000-title 1.md",
-    "Library.md",
-    "Arbalet.md",
-    "ABCDEFGoal.md"
+    "Arbalet.md"
   ]
 }
