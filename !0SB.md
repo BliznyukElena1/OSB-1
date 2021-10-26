@@ -10,6 +10,4 @@
 
 ***  
 ##### [Лекции, эфиры, включения](Lectio.md#lectio)   
-##### [Библиотека](Library.md#library)   
-
-***  
+##### [Библиотека](Library.md#library)    
