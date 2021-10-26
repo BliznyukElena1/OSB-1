@@ -1,7 +1,6 @@
-
 #### ОСБ / Арбалет  
 
-[← Домой](!0SB.md#osb)  
+##### [Домой](!0SB.md#osb)   
 
 ***  
 #### osb_arbalet   
@@ -27,5 +26,4 @@
  [![](https://telegra.ph/file/591dc1e98963a1b24f844.jpg)](ABCDEFGoal.md#abcdefgoal)   
 
 ***  
-
-[← !Lectio](Lectio.md#lectio)   
+[Lectio](Lectio.md#lectio)   
