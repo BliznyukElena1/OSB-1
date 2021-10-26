@@ -1,5 +1,6 @@
-###### [Library](Library.md)
+###### [Library](Library.md#library)  
 ###### mtb_b   
+
 ***   
 ## МЕТАБОЛИЗМ БЕЛКОВ В ЖКТ. ГНИЕНИЕ БЕЛКОВ В КИШЕЧНИКЕ.   
 
