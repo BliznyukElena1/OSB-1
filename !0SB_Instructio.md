@@ -97,7 +97,7 @@ dd - день заполнения
 - [x] Или редакторы Markdown  
 
 ***  
-http://mductor.weebly.com/a.html - страница запроса (VPN-доступ).   
+#### [К рассмотрению принимаются персональные запросы через окно на странице сайта.](http://mductor.weebly.com/a.html) (VPN-доступ).   
 
 ***
 ![](https://youtu.be/FQcPIXfhmsY)   
