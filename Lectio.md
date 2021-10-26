@@ -90,8 +90,8 @@
 [![](https://i.ytimg.com/vi/HkLexldO1D8/maxresdefault.jpg)](https://youtu.be/HkLexldO1D8)  
 
 ***  
-#### ОСБ / Арбалет   
-#### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](Arbalet.md#OSB_Arbalet)   
+#### ОСБ / Арбалет    
+#### [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](Arbalet.md#OSB_Arbalet)    
 
 ***
 #### ВСД / Космонавтика
