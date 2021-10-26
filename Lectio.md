@@ -91,6 +91,7 @@
 
 ***  
 #### [ОСБ / Арбалет](Arbalet.md#osb_arbalet)   
+![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)
 
 ***
 #### ВСД / Космонавтика

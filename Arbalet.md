@@ -1,4 +1,4 @@
-##### [home](!0SB.md#osb)   
+##### [Home](!0SB.md#osb)   
 
 ***  
 #### Osb_Arbalet   
@@ -24,4 +24,4 @@
 [![](https://telegra.ph/file/591dc1e98963a1b24f844.jpg)](ABCDEFGoal.md#abcdefgoal)   
 
 ***  
-[Lectio](Lectio.md#lectio)   
+[Lectio](Lectio.md#lectio)  
