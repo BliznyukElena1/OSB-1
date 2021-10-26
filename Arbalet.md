@@ -1,7 +1,7 @@
-### ОСБ / Арбалет  
+### ОСБ / Арбалет   
 ##### [← Домой](!0SB.md#OSB)    
-***
-#### OSB_Arbalet
+***  
+#### OSB_Arbalet   
 ***
 #### ОСБ / Арбалет 1  
 [![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=pouFQqZgRHQ)   
