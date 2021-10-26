@@ -49,8 +49,7 @@
 - [x] Вегетарианство (5 лет)  
 
 ***  
-#### ОСБ / Арбалет  
-#### [![](Arbalet2.md#OSB_Arbalet)  
+#### [ОСБ / Арбалет](Arbalet.md#osb_arbalet)  
 
 ***   
 #### 2021-10-22   
@@ -72,7 +71,7 @@
 #### Созданы отдельные блоки:   
 - [x] [Эфиры, лекции](Lectio.md#lectio)  
 - [x] [Библиотека](Library.md#library)  
-- [x] [Арбалет](Arbalet2.md#osb_arbalet)  
+- [x] [Арбалет](Arbalet.md#osb_arbalet)  
 - [x] [Herba](Herba.md#herba)  
 
 ***  
