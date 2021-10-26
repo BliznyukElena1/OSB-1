@@ -1,4 +1,4 @@
-##### [Home](!0SB.md#osb)   
+##### [← Домой](!0SB.md#osb)  
 
 ***  
 #### Osb_Arbalet   
