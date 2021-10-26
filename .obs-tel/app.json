@@ -48,7 +48,7 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "newFileFolderPath": "_Inbox",
-  "attachmentFolderPath": "Files",
+  "attachmentFolderPath": "/",
   "spellcheck": false,
   "showLineNumber": true,
   "foldHeading": true,
@@ -60,8 +60,8 @@
   "mobilePullAction": "obsidian-minimal-settings:toggle-minimal-switch",
   "showFrontmatter": true,
   "strictLineBreaks": true,
-  "tabSize": 6,
-  "useTab": false,
+  "tabSize": 2,
+  "useTab": true,
   "newLinkFormat": "relative",
   "showUnsupportedFiles": true
 }
