@@ -9,7 +9,7 @@
 - [x] [ОКНО ЗАПРОСА](http://mductor.weebly.com/a.html) (VPN-доступ)    
 
 ***  
-##### [Эфиры, лекции](Lectio.md#lectio)   
+##### [Лекции, эфиры](Lectio.md#lectio)   
 ##### [Библиотека](Library.md#library)   
 
 ***  
