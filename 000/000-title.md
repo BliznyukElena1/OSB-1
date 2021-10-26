@@ -1,2 +1,3 @@
 ***
-###### {{title}}-{{date:YYYY-MM-DD}}-{{time:HH-mm}}  
+###### {{title}}  
+###### {{date:YYYY-MM-DD}}-{{time:HH-mm}}  

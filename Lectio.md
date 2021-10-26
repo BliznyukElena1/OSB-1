@@ -1,17 +1,17 @@
-#### Lectio
+#### lectio
 ***  
 ### ОСБ / Лекции, эфиры
 ##### [← Домой](!0SB.md#osb)  
 
 *** 
-###### Lectio_OSB 
+###### lectio_osb 
 #### ОСБ / Встречи на Макаренко   
 - [x] ОСБ / Об особенностях работы.   
 
 [![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)   
 
 ***
-###### Lectio_Titanik
+###### lectio_titanik
 
 #### [ОСБ / Титаник на Тирозоле](https://t.me/osbmd/3062)  
 [Анализ проблемы](e20211022.md#e20211022)  
@@ -40,22 +40,22 @@
 Как исправлять ситуацию?  
 
 ***
-###### Lectio_B_hold
+###### lectio_b_hold
 #### ОСБ / Задержки Дыхания
 [![](https://i.ytimg.com/vi/58-frzZfj30/maxresdefault.jpg)](https://youtu.be/58-frzZfj30)  
 
 ***
-###### Lectio_Tanatos
+###### lectio_tanatos
 #### ОСБ / Дыхательная танатотерапия
 [![](https://i.ytimg.com/vi/xx_RWXVfaYc/hqdefault.jpg)](https://youtu.be/xx_RWXVfaYc) 
 
 ***
-###### Lectio_Krest
+###### lectio_krest
 #### ОСБ / Дыхание по Кресту
 [![](https://i.ytimg.com/vi/yICDwAOCaR4/hqdefault.jpg)](https://youtu.be/yICDwAOCaR4?)  
 
 ***
-###### Lectio_Sezon
+###### lectio_sezon
 #### ОСБ / Сезонные хвори
 [![](https://i.ytimg.com/vi/UNqGYNDZKl0/hqdefault.jpg)](https://www.youtube.com/watch?v=UNqGYNDZKl0)   
 
