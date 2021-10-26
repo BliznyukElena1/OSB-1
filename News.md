@@ -50,7 +50,8 @@
 
 ***  
 #### [ОСБ / Арбалет](Arbalet.md#osb_arbalet)  
-![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)
+![](https://i.ytimg.com/vi/pouFQqZgRHQ/maxresdefault.jpg)  
+
 ***   
 #### 2021-10-22   
 
