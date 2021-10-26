@@ -73,8 +73,7 @@
 [![](https://i.ytimg.com/vi/glmEFiknS-Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=glmEFiknS-Q)   
 
 ***  
-#### OSB_NOMED
-***  
+###### osb_nomed  
 #### ОСБ / Для немедиков (ч. 1)  
 [![](https://telegra.ph/file/6fc97edb46138fb91b219.jpg)](https://youtu.be/tHwT3SowHb8)  
 
