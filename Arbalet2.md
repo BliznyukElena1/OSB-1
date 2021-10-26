@@ -1,7 +1,7 @@
 ##### [home](!0SB.md#osb)   
 
 ***  
-#### Osb_Arbalet   
+#### Osb_Arbalet  
 
 ***  
 #### ОСБ / Арбалет 1  

@@ -91,7 +91,7 @@
 
 ***  
 #### ОСБ / Арбалет    
-[![](Arbalet2.md#osb_arbalet)   
+[Арбалет](Arbalet2.md#osb_arbalet)   
 
 ***
 #### ВСД / Космонавтика
