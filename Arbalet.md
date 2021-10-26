@@ -1,10 +1,10 @@
 
 #### ОСБ / Арбалет  
 
-##### [← Домой](!0SB.md#osb)  
+[← Домой](!0SB.md#osb)  
 
 ***  
-#### osb_arbalet  
+#### osb_arbalet   
 
 ***  
 #### ОСБ / Арбалет 1  
@@ -24,7 +24,8 @@
 [![](https://i.ytimg.com/vi/1TVN-buN9IA/maxresdefault.jpg)](https://youtu.be/1TVN-buN9IA)  
 
 ***
- [![](https://telegra.ph/file/591dc1e98963a1b24f844.jpg)](ABCDEFGoal.md#ABCDEFGoal)   
+ [![](https://telegra.ph/file/591dc1e98963a1b24f844.jpg)](ABCDEFGoal.md#abcdefgoal)   
 
 ***  
-##### [← !Lectio](Lectio.md#lectio)  
+
+[← !Lectio](Lectio.md#lectio)   
