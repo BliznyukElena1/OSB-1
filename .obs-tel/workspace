@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lectio.md",
+            "file": "News.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lectio.md",
+            "file": "News.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lectio.md",
+            "file": "News.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lectio.md"
+            "file": "News.md"
           }
         }
       }
@@ -114,11 +114,11 @@
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
-    "Lectio.md",
     "News.md",
-    "!0SB.md",
-    "Library.md",
     "Mtb_B.md",
+    "!0SB.md",
+    "Lectio.md",
+    "Library.md",
     "DMSO_APROTON.md",
     "000/000-title.md",
     "000/000-date.md",
