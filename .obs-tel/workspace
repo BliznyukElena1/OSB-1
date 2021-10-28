@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000/000-png.md",
-            "mode": "source"
+            "file": "e20211028.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "000/000-png.md",
+            "file": "e20211028.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "000/000-png.md",
+            "file": "e20211028.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "000/000-png.md"
+            "file": "e20211028.md"
           }
         }
       }
@@ -114,10 +114,10 @@
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
+    "e20211028.md",
+    "News.md",
     "000/Без названия.md",
     "000/000-news.md",
-    "News.md",
-    "e20211028.md",
     "000/000-png.md",
     "000/000-date.md",
     "000/000-title.md",
