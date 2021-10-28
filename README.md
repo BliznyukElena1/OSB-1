@@ -3,7 +3,7 @@
 #### [Анатолий Игоревич Талалакин](AI_Talalakin.md#ai_talalakin)   
 
 ***  
-- [НОВОСТИ](News.md#news)
+- [НОВОСТИ](News.md#news)  
 - [ОСБ. ИНСТРУКЦИИ.](!0SB_Instructio.md#0sb_instructio) 
 - [ОКНО ЗАПРОСА](http://mductor.weebly.com/a.html) (VPN-доступ)   
-
+- [ОТЗЫВЫ](otziv.md#otziv)  
