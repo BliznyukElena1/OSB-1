@@ -6,8 +6,11 @@
 
 ***  
 ###### 2021-10-29-01-37  
-#### [ОТЗЫВЫ](otziv.md#otziv)  
+#### [ОТЗЫВЫ](otziv.md)  
+
 ![](https://telegra.ph/file/ca4b6b6f05f5cef53a6cf.jpg)  
+
+[https://t.me/osb_otziv](https://t.me/osb_otziv)
 
 ***  
 ###### 2021-10-28-18-05  
