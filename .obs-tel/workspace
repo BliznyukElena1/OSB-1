@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "News.md",
-            "mode": "preview"
+            "file": "000/000-png.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "News.md",
+            "file": "000/000-png.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "News.md",
+            "file": "000/000-png.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "News.md"
+            "file": "000/000-png.md"
           }
         }
       }
@@ -114,15 +114,15 @@
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
+    "000/Без названия.md",
+    "000/000-news.md",
     "News.md",
     "e20211028.md",
     "000/000-png.md",
     "000/000-date.md",
-    "000/Без названия.md",
     "000/000-title.md",
     "Mtb_B.md",
     "!0SB.md",
-    "Lectio.md",
-    "Library.md"
+    "Lectio.md"
   ]
 }
