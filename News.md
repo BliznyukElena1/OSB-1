@@ -5,6 +5,12 @@
 ### ОСБ. НОВОСТИ.  
 
 ***  
+###### 2021-10-29-21-02  
+#### [ОСБ / Практика холодовой реабилитации](https://www.youtube.com/watch?v=WG7XFWfhi3I)
+![](https://i.ytimg.com/vi/WG7XFWfhi3I/hqdefault.jpg)
+#### [Про тепловое ядро и оболочку](lib-zolotarev-holod.md#yadro)  
+
+***  
 ###### 2021-10-29-18-19  
 #### [Про Лапина и тормозов](https://t.me/c/1484776022/39487)
 ![](https://telegra.ph/file/cfe107408de8d4aff130b.jpg)  
