@@ -5,6 +5,11 @@
 ### ОСБ. НОВОСТИ.   
 
 ***  
+###### 2021-10-29-22-25   
+#### [Термостат СБК](https://t.me/osbmd/3079)
+![](https://telegra.ph/file/62a366f6581c75b051c79.jpg)  
+
+***  
 ###### 2021-10-29-21-02  
 #### [ОСБ / Опыт холодовой реабилитации](https://www.youtube.com/watch?v=WG7XFWfhi3I)
 ![](https://i.ytimg.com/vi/WG7XFWfhi3I/hqdefault.jpg)
