@@ -15,7 +15,8 @@
 ***  
 ###### 2021-10-29-16-56  
 #### [Синусоида терморегуляции](https://t.me/osbmd/3076).
-![](https://telegra.ph/file/3ec7db87a1983f5492fad.jpg)  
+![](https://telegra.ph/file/3ec7db87a1983f5492fad.jpg)   
+[Влияние холода на организм](lib-zolotarev-holod.md)  
 
 ***  
 ###### 2021-10-29-01-37  

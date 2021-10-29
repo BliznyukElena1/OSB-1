@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "News.md",
+            "file": "lib-zolotarev-holod.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "News.md",
+            "file": "lib-zolotarev-holod.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "News.md",
+            "file": "lib-zolotarev-holod.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "News.md"
+            "file": "lib-zolotarev-holod.md"
           }
         }
       }
@@ -114,15 +114,15 @@
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
+    "lib-zolotarev-holod.md",
     "News.md",
+    "000/000-news.md",
+    "Library.md",
+    "!0SB.md",
+    "Lectio.md",
     "otziv.md",
     "e20211028.md",
-    "!0SB.md",
     "README.md",
-    "Без названия.md",
-    "000/000-news.md",
-    "000/Без названия.md",
-    "000/000-png.md",
-    "000/000-date.md"
+    "Без названия.md"
   ]
 }
