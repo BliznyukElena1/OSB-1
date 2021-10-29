@@ -2,14 +2,14 @@
 ###### [← Домой](!0SB.md#osb)  
 
 ***    
-### ОСБ. НОВОСТИ.  
+### ОСБ. НОВОСТИ.   
 
 ***  
 ###### 2021-10-29-21-02  
-#### [ОСБ / Практика холодовой реабилитации](https://www.youtube.com/watch?v=WG7XFWfhi3I)
+#### [ОСБ / Опыт холодовой реабилитации](https://www.youtube.com/watch?v=WG7XFWfhi3I)
 ![](https://i.ytimg.com/vi/WG7XFWfhi3I/hqdefault.jpg)
 #### [Про тепловое ядро и оболочку](lib-zolotarev-holod.md#yadro)  
-
+#### [Холодовые практики](https://www.youtube.com/playlist?list=PLABB8758704860C4F)
 ***  
 ###### 2021-10-29-18-19  
 #### [Про Лапина и тормозов](https://t.me/c/1484776022/39487)
