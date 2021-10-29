@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "lib-zolotarev-holod.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
           "type": "backlink",
           "state": {
             "file": "lib-zolotarev-holod.md",
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -110,7 +110,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
