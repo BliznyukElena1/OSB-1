@@ -17,7 +17,7 @@
 #### [Синусоида терморегуляции](https://t.me/osbmd/3076).
 ![](https://telegra.ph/file/3ec7db87a1983f5492fad.jpg)   
 ###### [Влияние холода на организм](lib-zolotarev-holod.md#lib-zolotarev-holod)  
-
+###### [Про тепловое ядро и оболочку](lib-zolotarev-holod.md#lib-zolotarev-holod#yadro)  
 ***  
 ###### 2021-10-29-01-37  
 #### [ОТЗЫВЫ.](otziv.md#otziv)  Дополнил сайт ещё одной рубрикой.
