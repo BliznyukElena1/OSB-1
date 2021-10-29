@@ -19,14 +19,7 @@
 #### [ОСБ / Опыт холодовой реабилитации](https://www.youtube.com/watch?v=WG7XFWfhi3I)
 ![](https://i.ytimg.com/vi/WG7XFWfhi3I/hqdefault.jpg)
 #### [Про тепловое ядро и оболочку](lib-zolotarev-holod.md#yadro)  
-#### [Холодовые практики](https://www.youtube.com/playlist?list=PLABB8758704860C4F)
-***  
-###### 2021-10-29-18-19  
-#### [Про Лапина и тормозов](https://t.me/c/1484776022/39487)
-![](https://telegra.ph/file/cfe107408de8d4aff130b.jpg)  
-#### [Аудио-рассказ](https://t.me/c/1484776022/39515)  
-
-[](https://telegra.ph/file/a8aacffd7aa3b251f4f9b.jpg)  
+#### [Холодовые практики](https://www.youtube.com/playlist?list=PLABB8758704860C4F) 
 
 ***  
 ###### 2021-10-29-16-56  
@@ -34,6 +27,14 @@
 ![](https://telegra.ph/file/3ec7db87a1983f5492fad.jpg)   
 - [Влияние холода на организм](lib-zolotarev-holod.md#lib-zolotarev-holod)  
 - [Про тепловое ядро и оболочку](lib-zolotarev-holod.md#yadro)  
+
+***  
+###### 2021-10-29-18-19  
+#### [Про Лапина и тормозов](https://t.me/c/1484776022/39487)
+![](https://telegra.ph/file/cfe107408de8d4aff130b.jpg)  
+#### [Аудио-рассказ](https://t.me/c/1484776022/39515)  
+
+[](https://telegra.ph/file/a8aacffd7aa3b251f4f9b.jpg)  
 
 ***  
 ###### 2021-10-29-01-37  
