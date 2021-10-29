@@ -5,6 +5,14 @@
 ### ОСБ. НОВОСТИ.  
 
 ***  
+###### 2021-10-29-18-19  
+#### [Про Лапина и тормозов](https://t.me/c/1484776022/39487)
+![](https://telegra.ph/file/cfe107408de8d4aff130b.jpg)  
+[Аудио-рассказ](https://t.me/c/1484776022/39515)  
+
+[](https://telegra.ph/file/a8aacffd7aa3b251f4f9b.jpg)  
+
+***  
 ###### 2021-10-29-16-56  
 #### [Синусоида терморегуляции](https://t.me/osbmd/3076).
 ![](https://telegra.ph/file/3ec7db87a1983f5492fad.jpg)  
