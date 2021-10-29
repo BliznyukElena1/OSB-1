@@ -7,8 +7,7 @@
 ***  
 ###### 2021-10-30-01-20  
 #### [ОСБ / Терморегуляция](https://youtu.be/9erfGAk3-qw)  
-![]()  
-
+![](https://i.ytimg.com/vi/9erfGAk3-qw/maxresdefault.jpg)  
 
 ***  
 ###### 2021-10-29-22-25   
