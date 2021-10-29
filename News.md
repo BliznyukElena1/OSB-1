@@ -7,7 +7,7 @@
 ***  
 ###### 2021-10-29-22-25   
 #### [Термостат СБК](https://t.me/osbmd/3079)
-![](https://telegra.ph/file/62a366f6581c75b051c79.jpg)  
+![](https://telegra.ph/file/ec97eed11fb642ed55845.jpg)  
 
 ***  
 ###### 2021-10-29-21-02  
