@@ -4,15 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "7632baaa5ca89992",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "News.md",
-            "mode": "preview"
+        "id": "da48d0105db08934",
+        "type": "split",
+        "children": [
+          {
+            "id": "7632baaa5ca89992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "News.md",
+                "mode": "preview"
+              }
+            },
+            "group": "d29c94861d8bcb34"
+          },
+          {
+            "id": "32331996f1b02dfd",
+            "type": "leaf",
+            "state": {
+              "type": "media-view",
+              "state": {
+                "info": {
+                  "host": 0,
+                  "id": "9erfGAk3-qw",
+                  "iframe": "https://www.youtube.com/embed/9erfGAk3-qw",
+                  "src": "https://youtu.be/9erfGAk3-qw",
+                  "hash": ""
+                },
+                "currentTime": 0
+              }
+            },
+            "group": "d29c94861d8bcb34"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
