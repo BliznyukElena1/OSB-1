@@ -6,7 +6,7 @@
 
 ***  
 ###### 2021-10-30-20-36  
-#### [Spirit v.1 (Win XP)](Spirit.zip)  
+#### [Spirit v.1 (Win XP)](https://drive.google.com/file/d/1HuOIZ22ML-eodVA-BY9v9bYibT9UU4PK/view?usp=sharing)  
 #### [О задержках дыхания](https://t.me/c/1484776022/39745)   
 
 ![](https://telegra.ph/file/0338257a4a29f7586947d.jpg)  
