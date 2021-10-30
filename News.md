@@ -5,6 +5,11 @@
 ### ОСБ. НОВОСТИ.  
 
 ***  
+###### 2021-10-31-01-06   
+#### [Путеводитель ОСБ](https://youtube.com/playlist?list=PLZfvuj_2FzFo3Ng8QJ78yQP2Vr1lOE5Eq)  
+![](https://i.ytimg.com/vi_webp/p7acjlB1ip8/maxresdefault.webp)   
+
+***  
 ###### 2021-10-30-20-36  
 #### [Spirit v.1 (Win XP)](https://drive.google.com/file/d/1HuOIZ22ML-eodVA-BY9v9bYibT9UU4PK/view?usp=sharing)  
 #### [О задержках дыхания](https://t.me/c/1484776022/39745)   
