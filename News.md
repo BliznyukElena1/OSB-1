@@ -6,7 +6,7 @@
 
 ***  
 ###### 2021-10-31-01-06   
-#### [Путеводитель ОСБ](https://youtube.com/playlist?list=PLZfvuj_2FzFo3Ng8QJ78yQP2Vr1lOE5Eq)  
+#### [ОСБ / Путеводитель](https://youtube.com/playlist?list=PLZfvuj_2FzFo3Ng8QJ78yQP2Vr1lOE5Eq)  
 ![](https://i.ytimg.com/vi_webp/p7acjlB1ip8/maxresdefault.webp)   
 
 ***  
