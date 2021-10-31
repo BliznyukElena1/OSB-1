@@ -35,7 +35,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#ffd780",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -123,6 +123,7 @@
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
     "News.md",
+    "000/000-date-w.md",
     "000/000-news.md",
     "000/000-date 1.md",
     "000/000-date.md",
@@ -130,7 +131,6 @@
     "a20211025.md",
     "Library.md",
     "lib-zolotarev-holod.md",
-    "!0SB.md",
-    "Lectio.md"
+    "!0SB.md"
   ]
 }

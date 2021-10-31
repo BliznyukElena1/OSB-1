@@ -1,5 +1,5 @@
 ***  
-<span style='background-color:#ffbf00;'>
+<span style='background-color:#ffd780;'>
 {{date:dddd}}
 </span>   
 

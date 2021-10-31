@@ -4,7 +4,8 @@
   "savedColors": [
     "#ff0000",
     "#0000ff",
-    "#2e2e2e"
+    "#2e2e2e",
+    "#ffc859"
   ],
   "aviabileRegions": [
     "textEdit",
@@ -28,17 +29,17 @@
     {
       "name": "html",
       "active": true,
-      "visible": true
+      "visible": false
     },
     {
       "name": "latex",
       "active": true,
-      "visible": true
+      "visible": false
     },
     {
       "name": "greekLetters",
       "active": true,
-      "visible": true
+      "visible": false
     },
     {
       "name": "colors",
