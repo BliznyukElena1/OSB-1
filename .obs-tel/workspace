@@ -108,13 +108,22 @@
             "file": "News.md"
           }
         }
+      },
+      {
+        "id": "2251bb9dba93aeb6",
+        "type": "leaf",
+        "state": {
+          "type": "side-panel-control-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
     "News.md",
+    "a20211025.md",
     "Library.md",
     "lib-zolotarev-holod.md",
     "!0SB.md",
@@ -122,7 +131,6 @@
     "Lectio.md",
     "otziv.md",
     "e20211028.md",
-    "README.md",
-    "Без названия.md"
+    "README.md"
   ]
 }

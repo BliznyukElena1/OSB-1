@@ -5,6 +5,11 @@
 ### ОСБ. НОВОСТИ.  
 
 ***  
+###### 2021-10-31-05-05   
+#### [Анализ проблемы](a20211025.md#a20211025)
+![](https://telegra.ph/file/d9f02e61046368726b8b5.jpg)  
+
+***  
 ###### 2021-10-31-01-06   
 #### [ОСБ / Путеводитель](https://youtube.com/playlist?list=PLZfvuj_2FzFo3Ng8QJ78yQP2Vr1lOE5Eq)  
 ![](https://i.ytimg.com/vi_webp/p7acjlB1ip8/maxresdefault.webp)   
