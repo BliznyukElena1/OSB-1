@@ -10,6 +10,8 @@
 ![](https://telegra.ph/file/8cfa6bfbebdf1dac1872a.jpg)
 ![](https://telegra.ph/file/d9f02e61046368726b8b5.jpg)  
 
+#### [Динамика не-Достижений 2013 → 2021 г.](d20211025.md#d20211025)  
+
 ***  
 ###### 2021-10-31-01-06   
 #### [ОСБ / Путеводитель](https://youtube.com/playlist?list=PLZfvuj_2FzFo3Ng8QJ78yQP2Vr1lOE5Eq)  
