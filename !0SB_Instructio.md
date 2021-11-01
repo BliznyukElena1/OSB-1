@@ -90,8 +90,8 @@ dd - день заполнения
 ***
 #### Для работы с (.md) используйте:     
 - Андроид → Notepad++, Markor, Obsidian  
-- Windows → QuickEdit  
-- Или др. редакторы Markdown  
+- Windows → QuickEdit, Obsidian  
+- Или др. редакторы формата Markdown  
 
 ***
 #### Ссылка на скачивание архива файлов:
