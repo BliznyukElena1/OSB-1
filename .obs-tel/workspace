@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "News.md",
-            "mode": "source"
+            "file": "!0SB_Instructio.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "News.md",
+            "file": "!0SB_Instructio.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "News.md",
+            "file": "!0SB_Instructio.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "News.md"
+            "file": "!0SB_Instructio.md"
           }
         }
       },
@@ -122,6 +122,8 @@
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
+    "!0SB_Instructio.md",
+    "!0SB.md",
     "News.md",
     "000/000-date-w.md",
     "000/000-news.md",
@@ -129,8 +131,6 @@
     "000/000-date.md",
     "d20211025.md",
     "a20211025.md",
-    "Library.md",
-    "lib-zolotarev-holod.md",
-    "!0SB.md"
+    "Library.md"
   ]
 }

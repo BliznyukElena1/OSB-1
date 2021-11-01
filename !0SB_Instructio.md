@@ -1,10 +1,11 @@
+###### 0SB_Instructio
 ### ОСБ. ИНСТРУКЦИИ.  
 
 ***  
+#### **<a href="mailto:talalakin@yandex.ru?subject=ФИО. Суть запроса? Кто направил?"><span style='background-color:#fffdf0;'>ОСБ / ОТПРАВИТЬ ПЕРСОНАЛЬНЫЙ ЗАПРОС.</span></a>**
+
 ![Arbalet](ArbaletEP.jpg)  
 
-***  
-#### 0SB_Instructio
 ***
 _[ОСБ](!0SB.md#osb). ВНИМАНИЕ! Обновлено 16.10.2021 г.  
 Старые формы больше не принимаются!_   
