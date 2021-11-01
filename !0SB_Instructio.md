@@ -77,10 +77,10 @@ __Схема предоставляется на срок в 1 месяц.__
 
 ***
 #### Присылайте файлы в формате:  
-- [x] yyyy-mm-dd-promery.xlsx  
-- [x] yyyy-mm-dd-analis-problemy.md  
-- [x] yyyy-mm-dd-dinamika.md   
-- [x] yyyy-mm-dd-urina.jpg (или .png)  
+- yyyy-mm-dd-promery.xlsx  
+- yyyy-mm-dd-analis-problemy.md  
+- yyyy-mm-dd-dinamika.md   
+- yyyy-mm-dd-urina.jpg (или .png)  
 
 __Где:__    
 yyyy - год  
@@ -89,28 +89,29 @@ dd - день заполнения
 
 ***
 #### Ссылка на скачивание архива файлов:
-- [x] [OSB.zip](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)  - обновление от 16.10.2021 г. 
+- [OSB.zip](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)  - обновление от 16.10.2021 г. 
 
 ***
 #### Для работы с (.md) используйте:     
-- [x] Андроид → Notepad++  
-- [x] Windows → QuickEdit  
-- [x] Или редакторы Markdown  
+- Андроид → Notepad++  
+- Windows → QuickEdit  
+- Или редакторы Markdown  
 
 ***  
 [К рассмотрению принимаются персональные запросы через окно на странице сайта.](http://mductor.weebly.com/a.html)  
 VPN-доступ!   
 
 ***
-![](https://youtu.be/FQcPIXfhmsY)   
 
 #### ОСБ / Об особенностях работы.   
 [![](https://i.ytimg.com/vi_webp/WGZL00VWwgg/maxresdefault.webp)](https://youtu.be/WGZL00VWwgg)   
 
-***
-- [x] [О промерах](https://t.me/osbmd/1334)  
+[Как заполнить таблицу промеров?](https://youtu.be/FQcPIXfhmsY)   
 
-***  
+***
+- [О промерах](https://t.me/osbmd/1334)  
+
+***   
 С уважением,   
 А. И. Талалакин   
 
