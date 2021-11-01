@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!0SB_Instructio.md",
+            "file": "yyyy-mm-dd-dinamika.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!0SB_Instructio.md",
+            "file": "yyyy-mm-dd-dinamika.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!0SB_Instructio.md",
+            "file": "yyyy-mm-dd-dinamika.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!0SB_Instructio.md"
+            "file": "yyyy-mm-dd-dinamika.md"
           }
         }
       },
@@ -122,6 +122,7 @@
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
+    "yyyy-mm-dd-dinamika.md",
     "!0SB_Instructio.md",
     "!0SB.md",
     "News.md",
@@ -130,7 +131,6 @@
     "000/000-date 1.md",
     "000/000-date.md",
     "d20211025.md",
-    "a20211025.md",
-    "Library.md"
+    "a20211025.md"
   ]
 }
