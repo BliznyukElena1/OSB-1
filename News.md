@@ -13,7 +13,7 @@
 
 Мы движемся дальше! 
 
-![](https://telegra.ph/file/f28a6896605d4ede84334.jpg)  
+![](https://telegra.ph/file/1a852401ca6f1fe2328b3.jpg)  
 
 ***   
 ###### 2021-11-01  
