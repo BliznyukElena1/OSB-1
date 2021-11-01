@@ -95,7 +95,7 @@ dd - день заполнения
 
 ***
 #### Ссылка на скачивание архива файлов:
-- [OSB.zip](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)  - обновление от 16.10.2021 г. 
+- [OSB.zip](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)  - обновление от 01.11.2021 г. 
 
 ***
 
