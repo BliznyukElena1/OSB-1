@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "News.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -132,8 +132,8 @@
   "lastOpenFiles": [
     "News.md",
     "!0SB.md",
-    "otziv.md",
     "!0SB_Instructio.md",
+    "otziv.md",
     "lib-zolotarev-holod.md",
     "Library.md",
     "Mtb_B.md",

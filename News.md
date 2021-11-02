@@ -2,7 +2,7 @@
 ###### [← Домой](!0SB.md#osb)  
 
 ***    
-### ОСБ. НОВОСТИ. 
+### ОСБ. НОВОСТИ.  
 
 ***  
 ###### 2021-11-02-17-38  
@@ -15,6 +15,7 @@
 9d | 8d | <span style='background-color:#b5e5ff;'>7D</span>     
 
 ![](https://telegra.ph/file/6fc97edb46138fb91b219.jpg)   
+![Arbalet](ArbaletEP.jpg)  
 
 ***  
 ###### 2021-11-01-22-22  
