@@ -7,14 +7,14 @@
 ***  
 ###### 2021-11-02-17-38  
 #### ОСБ / Матрица Квадрантов:   
-(совмещение с промерами)  
+(совмещение с промерами)   
 
-|:---:|:---:|:---:|  
-<span style='background-color:#ffcfcf;'>**3D**</span> | 2d | 1d     
-6d | <span style='background-color:#b5ffb6;'>**5D**</span>   | 4d   
-9d | 8d | <span style='background-color:#b5e5ff;'>**7D**</span>     
+|:---: |:---:| :---:|  
+1D | 2D | <span style='background-color:#ffcfcf;'>**3D**</span>   
+4D | <span style='background-color:#b5ffb6;'>**5D**</span>   | 6D   
+<span style='background-color:#b5e5ff;'>**7D**</span> | 8D | 9D   
 
-![](https://telegra.ph/file/6fc97edb46138fb91b219.jpg)   
+![](https://telegra.ph/file/195bcaed4b8190d3bcb5a.jpg)   
 ![Arbalet](https://telegra.ph/file/12e1525a476a5f7bab4b2.jpg)  
 
 ***  
