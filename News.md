@@ -12,8 +12,12 @@ p+p+| p+ | <span style='background-color:#ffcfcf;'>**~**</span>
 p+(pe) | <span style='background-color:#b5ffb6;'>**p+e-**</span>   | e-   
 <span style='background-color:#b5e5ff;'>**(pe)(pe)**</span> | (pe)e- | e-e-    
 
+<details markdown='1'><summary></summary> 
+
 ![](https://telegra.ph/file/429d9ad9667a8d7bc9095.jpg)  
 ![](https://telegra.ph/file/33e11c0b4db28af56f861.jpg)  
+
+</details>
 
 ***  
 ###### 2021-11-02-17-38  
