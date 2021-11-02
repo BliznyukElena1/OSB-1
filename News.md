@@ -29,7 +29,8 @@
 
 ![](https://telegra.ph/file/e62f420d497648a7a1458.jpg)  
 
-<details markdown='1'><summary></summary>  
+<details markdown='1'><summary></summary>
+
 | | | |
 |:-|:-|:-|
 | Вит Е | ДМСО | Клизмы |
@@ -50,6 +51,7 @@
 | Саликс | Деготь| Сода |
 | Солодка | Скипидар | KMnO4 |
 | ЛимонАТ | Живица | H2O2 |
+
 </details>
 
 ***   
