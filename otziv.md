@@ -1,8 +1,8 @@
 ###### otziv  
-###### [← Домой](!0SB.md#osb)  
+###### [← Домой](!0SB.md#osb) 
 
 ***    
-## ОСБ / ОТЗЫВЫ  
+## ОСБ / ОТЗЫВЫ   
 
 |:---: |:---:| :---:|  
 1D | 2D | <span style='background-color:#ffcfcf;'>3D</span>   
