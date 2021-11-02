@@ -2,14 +2,18 @@
 ###### [← Домой](!0SB.md#osb) 
 
 ***    
-### ОСБ. НОВОСТИ.  
+### ОСБ. НОВОСТИ. 
 
 ###### 2021-11-03-00-45  
 #### ОСБ / pe-Матрица:  
+
 |:---: |:---:| :---:|  
 p+p+| p+ | <span style='background-color:#ffcfcf;'>**~**</span>   
 p+(pe) | <span style='background-color:#b5ffb6;'>**p+e-**</span>   | e-   
 <span style='background-color:#b5e5ff;'>**(pe)(pe)**</span> | (pe)e- | e-e-    
+
+![](https://telegra.ph/file/429d9ad9667a8d7bc9095.jpg)  
+![](https://telegra.ph/file/33e11c0b4db28af56f861.jpg)  
 
 ***  
 ###### 2021-11-02-17-38  
@@ -23,9 +27,6 @@ p+(pe) | <span style='background-color:#b5ffb6;'>**p+e-**</span>   | e-
 
 ![](https://telegra.ph/file/195bcaed4b8190d3bcb5a.jpg)   
 ![Arbalet](https://telegra.ph/file/12e1525a476a5f7bab4b2.jpg)  
-![](https://telegra.ph/file/429d9ad9667a8d7bc9095.jpg)  
-![](https://telegra.ph/file/33e11c0b4db28af56f861.jpg)  
-
 
 ***  
 ###### 2021-11-01-22-22  
