@@ -18,7 +18,7 @@
 [](https://telegra.ph/file/1a852401ca6f1fe2328b3.jpg)  
 
 ***   
-###### 2021-11-01  
+###### 2021-11-01-15-00  
 #### [ОСБ / Инструкции. Обновление от 1.11.2021 г.](!0SB_Instructio.md#0sb_instructio)  
 ![](https://telegra.ph/file/6fc97edb46138fb91b219.jpg)   
 
