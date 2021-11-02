@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "News.md",
+            "file": "otziv.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "News.md",
+            "file": "otziv.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "News.md",
+            "file": "otziv.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "News.md"
+            "file": "otziv.md"
           }
         }
       },
@@ -116,12 +116,22 @@
           "type": "side-panel-control-view",
           "state": {}
         }
+      },
+      {
+        "id": "1cdf5fe332d0bf73",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
+    "otziv.md",
+    "!0SB_Instructio.md",
     "News.md",
     "lib-zolotarev-holod.md",
     "Library.md",
@@ -129,8 +139,6 @@
     "!0SB.md",
     "a20211025.md",
     "Herbanastoy.md",
-    "README.md",
-    "Lectio.md",
-    "d20211025.md"
+    "README.md"
   ]
 }

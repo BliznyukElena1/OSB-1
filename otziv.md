@@ -2,13 +2,13 @@
 ###### [← Домой](!0SB.md#osb)   
 
 ***    
-## ОСБ / ОТЗЫВЫ 
+## ОСБ / ОТЗЫВЫ  
 
-||||  
-|:-|:-:|-:|  
-1D | 2D | 3D  
-4D | **5D** | 6D  
-7D | 8D | 9D  
+|     |     |     |
+|:--- |:---:| ---:|
+1D | 2D | <span style='background-color:#ffcfcf;'>3D</span></a>  
+4D | <span style='background-color:#b5ffb6;'>**5D**</span></a>   | 6D  
+<span style='background-color:#b5e5ff;'>7D</span></a> | 8D | 9D  
 
 ***
 #### 2021-10-28  
