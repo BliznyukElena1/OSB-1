@@ -16,6 +16,9 @@
 
 ![](https://telegra.ph/file/195bcaed4b8190d3bcb5a.jpg)   
 ![Arbalet](https://telegra.ph/file/12e1525a476a5f7bab4b2.jpg)  
+![](https://telegra.ph/file/429d9ad9667a8d7bc9095.jpg)  
+![](https://telegra.ph/file/33e11c0b4db28af56f861.jpg)  
+
 
 ***  
 ###### 2021-11-01-22-22  
