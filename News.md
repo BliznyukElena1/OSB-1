@@ -5,6 +5,14 @@
 ### ОСБ. НОВОСТИ.  
 
 ***  
+###### 2021-11-02-17-38  
+#### Матрица ОСБ-квадр  
+|:---: |:---:| :---:|  
+1D | 2D | <span style='background-color:#ffcfcf;'>3D</span>   
+4D | <span style='background-color:#b5ffb6;'>**5D**</span>   | 6D   
+<span style='background-color:#b5e5ff;'>7D</span> | 8D | 9D   
+
+***  
 ###### 2021-11-01-22-22  
 #### [ОСБ-22](!0SB.md#!0sb)  
 1.11.2021 г. До НГ ждать не будем.  
