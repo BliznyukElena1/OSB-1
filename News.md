@@ -12,11 +12,11 @@ p+p+| p+ | <span style='background-color:#ffcfcf;'>**~**</span>
 p+(pe) | <span style='background-color:#b5ffb6;'>**p+e-**</span>   | e-   
 <span style='background-color:#b5e5ff;'>**(pe)(pe)**</span> | (pe)e- | e-e-    
 
-На осях pH (0X) и ORP (0Y):  
+#### На осях pH (0X) и ORP (0Y):  
 <span style='background-color:#ffcfcf;'>3D</span>  и <span style='background-color:#b5e5ff;'>7D</span>  за пределами добра и зла.  
 Они уже вне диапазона кислотно-основных и окислительно-восстановительных игр: 
-- 3D - это пшик, излучение, тепло, энергия
-- 7D - неионизированная материя вне обмена веществ и электро-магнитных флуктуаций, энергия, замороженная в вещество, структуру.
+- <span style='background-color:#ffcfcf;'>3D</span> - это пшик, излучение, тепло, энергия
+- <span style='background-color:#b5e5ff;'>7D</span>  - неионизированная материя вне обмена веществ и электро-магнитных флуктуаций, энергия, замороженная в вещество, структуру.
 
 <details markdown='1'><summary></summary> 
 
