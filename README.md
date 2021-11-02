@@ -4,5 +4,5 @@
 
 ***  
 - [НОВОСТИ](News.md#news)  
-- [ИНСТРУКЦИИ](!0SB_Instructio.md#0sb_instructio) 
 - [ОТЗЫВЫ](otziv.md#otziv)  
+- [ИНСТРУКЦИИ](!0SB_Instructio.md#0sb_instructio) 

@@ -14,7 +14,7 @@
 
 #### ОСБ / Арбалет 3  
 
-[![](https://i.ytimg.com/vi/Wac1Q45IkZA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Wac1Q45IkZA)  
+[![](https://i.ytimg.com/vi/Wac1Q45IkZA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Wac1Q45IkZA)  3
 
 #### ОСБ / Арбалет 4  
 
