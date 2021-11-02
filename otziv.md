@@ -9,6 +9,8 @@
 4D | <span style='background-color:#b5ffb6;'>**5D**</span>   | 6D   
 <span style='background-color:#b5e5ff;'>7D</span> | 8D | 9D   
 
+![Arbalet](ArbaletEP.jpg) 
+
 ***
 #### 2021-10-28  
 #### [ОСБ / Динамика "Было→Стало".](e20211028.md#e20211028)   
