@@ -7,7 +7,7 @@
 ***  
 ###### 2021-11-02-17-38  
 #### ОСБ / Матрица Квадрантов:   
-(совмещение с промерами) 
+(совмещение с промерами)  
 
 |:---:|:---:|:---:|  
 <span style='background-color:#ffcfcf;'>**3D**</span> | 2d | 1d     
@@ -15,7 +15,7 @@
 9d | 8d | <span style='background-color:#b5e5ff;'>**7D**</span>     
 
 ![](https://telegra.ph/file/6fc97edb46138fb91b219.jpg)   
-![Arbalet](https://telegra.ph/file/ad7a16c4d18f6c703cac0.jpg)  
+![Arbalet](https://telegra.ph/file/12e1525a476a5f7bab4b2.jpg)  
 
 ***  
 ###### 2021-11-01-22-22  
