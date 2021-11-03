@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "News.md",
+            "file": "Herbanastoy.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "News.md",
+            "file": "Herbanastoy.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "News.md",
+            "file": "Herbanastoy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "News.md"
+            "file": "Herbanastoy.md"
           }
         }
       },
@@ -130,15 +130,15 @@
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
+    "Herbanastoy.md",
+    "Herba.md",
+    "Library.md",
     "News.md",
-    "otziv.md",
     "!0SB.md",
+    "otziv.md",
     "!0SB_Instructio.md",
     "lib-zolotarev-holod.md",
-    "Library.md",
     "Mtb_B.md",
-    "a20211025.md",
-    "Herbanastoy.md",
-    "README.md"
+    "a20211025.md"
   ]
 }
