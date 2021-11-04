@@ -5,6 +5,12 @@
 ### ОСБ. НОВОСТИ.  
 
 ***  
+###### 2021-11-04-06-51  
+#### [Про овощи, "мыла" и катионы](https://t.me/osbmd/3088)   
+![](https://telegra.ph/file/1e31bbde4d33021858800.jpg)  
+###### [Фрагмент эфира](News.md#2021-10-31-05-05)
+
+***  
 ###### 2021-11-03-09-33  
 #### ОСБ / Арбалет-pe  
 ![](https://telegra.ph/file/ba964628e4e5a87c172ab.jpg)  
@@ -100,6 +106,7 @@ p+(pe) | <span style='background-color:#b5ffb6;'>**p+e-**</span>   | e-
 ![](https://telegra.ph/file/8cfa6bfbebdf1dac1872a.jpg)
 ![](https://telegra.ph/file/d9f02e61046368726b8b5.jpg)  
 ###### [Фрагмент эфира № 1](https://t.me/osbmd/3087)
+###### [Фрагмент эфира № 2](https://t.me/osbmd/3088)
 
 ***  
 ###### 2021-10-31-01-06   
