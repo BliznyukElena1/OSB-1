@@ -31,7 +31,7 @@
 ***  
 ###### 2021-11-04-06-51 
 #### [ОСБ / Про овощи, "мыла" и катионы](https://t.me/osbmd/3088)  
-#### [ОСБ / Про соду, цитрат и pH](https://t.me/osbmd/2492)   
+- [Про соду, цитрат и pH](https://t.me/osbmd/2492)   
 
 ![](https://telegra.ph/file/4d64273a00aa12aa78b4b.jpg)  
 ![](https://telegra.ph/file/1e31bbde4d33021858800.jpg)  
