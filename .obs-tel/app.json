@@ -57,7 +57,7 @@
   "communityPluginSortOrder": "download",
   "fileSortOrder": "byModifiedTime",
   "useMarkdownLinks": true,
-  "mobilePullAction": "obsidian-minimal-settings:toggle-minimal-switch",
+  "mobilePullAction": "command-palette:open",
   "showFrontmatter": true,
   "strictLineBreaks": true,
   "tabSize": 2,

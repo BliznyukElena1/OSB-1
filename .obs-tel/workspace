@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "News.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -125,20 +125,19 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 3
+    ]
   },
   "active": "7632baaa5ca89992",
   "lastOpenFiles": [
     "News.md",
-    "Mtb_B.md",
-    "Herbanastoy.md",
-    "Herba.md",
-    "Library.md",
-    "!0SB.md",
-    "otziv.md",
-    "!0SB_Instructio.md",
-    "lib-zolotarev-holod.md",
-    "a20211025.md"
+    "e20211105.md",
+    "tyr.md",
+    "e20211104.md",
+    "000/000-date-w.md",
+    "000/000-date.md",
+    "000/000-news.md",
+    "000/000-title.md",
+    "undefined.md",
+    "e20211104undefined.md"
   ]
 }
