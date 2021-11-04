@@ -36,7 +36,7 @@
     },
     {
       "id": "4eb05852-1c9b-4666-91f7-eddc8781a2ae",
-      "name": "e{{DATE:YYYYMMDD}}",
+      "name": "e20211231",
       "type": "Capture",
       "command": true,
       "appendLink": false,
@@ -49,7 +49,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "###### <%+ tp.file.title %>"
+        "format": "###### e{{DATE:yyyyMMDD}}   "
       },
       "insertAfter": {
         "enabled": false,
