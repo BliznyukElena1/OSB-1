@@ -1,3 +1,9 @@
+[5 нояб 2021г промеры.xlsx](https://github.com/TalalakinAI/OSB/files/7480226/5.2021.xlsx)
+![20211027_222119](https://user-images.githubusercontent.com/93084822/140451992-e18649dc-74fe-4754-b2d5-d2ed0b0fbbeb.jpg)
+![20211027_222125](https://user-images.githubusercontent.com/93084822/140452094-4106b4e2-8ccc-4a17-a14d-a9ce07defbf7.jpg)
+![20211027_222137](https://user-images.githubusercontent.com/93084822/140452109-6808fddc-8d93-4945-8be9-9e81f528f725.jpg)
+![20211027_222158](https://user-images.githubusercontent.com/93084822/140452115-fd2986ff-57a5-4866-8289-a60c1d1a7720.jpg)
+![20211027_222211](https://user-images.githubusercontent.com/93084822/140452124-8e219504-70e7-4b4f-8a5a-43599951b25f.jpg)
 ## ОСБ. Анализ проблемы:  
 
 ФИО:  
