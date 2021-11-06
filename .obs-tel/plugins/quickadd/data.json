@@ -67,6 +67,40 @@
       },
       "openFile": true,
       "openFileInMode": "default"
+    },
+    {
+      "id": "cbb49623-7ca5-43bf-b9e1-e938d80c5a38",
+      "name": "Вопрос-Ответ",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "\n***\n###### {{DATE:YYYY-MM-DD-HH-mm}}\n#### Вопрос:\n>\n\n#### А. И. Талалакин:\n>\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
     }
   ],
   "macros": []
